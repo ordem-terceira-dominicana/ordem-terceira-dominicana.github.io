@@ -1,0 +1,80 @@
+/* -------------------------------------------------------
+   Estilo Dominicano — Branco & Preto
+   ------------------------------------------------------- */
+
+/* Reset básico */
+body, h1, h2, h3, p, ul, ol {
+    margin: 0;
+    padding: 0;
+}
+
+/* Corpo da página */
+body {
+    font-family: "Georgia", "Times New Roman", serif;
+    background-color: #ffffff;   /* branco dominicano */
+    color: #000000;              /* preto dominicano */
+    line-height: 1.6;
+    padding: 2rem;
+}
+
+/* Logo */
+#logo img {
+    max-width: 140px;
+    height: auto;
+    display: block;
+    margin: 0 auto 1rem auto;
+}
+
+/* Conteúdo principal */
+main {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+/* Títulos */
+h1, h2, h3 {
+    font-weight: normal;
+    text-align: center;
+    margin: 1.5rem 0 1rem 0;
+    letter-spacing: 0.5px;
+}
+
+/* Separadores visuais */
+hr {
+    border: none;
+    border-top: 1px solid #000;
+    margin: 2rem 0;
+}
+
+/* Versículos e respostas */
+strong {
+    font-weight: bold;
+}
+
+/* Listas */
+ul {
+    margin: 1rem 0 1rem 2rem;
+}
+
+/* Pequenos detalhes tipográficos */
+em {
+    font-style: italic;
+}
+
+/* Links (caso venham a existir) */
+a {
+    color: #000;
+    text-decoration: underline;
+}
+
+/* Responsividade */
+@media (max-width: 600px) {
+    body {
+        padding: 1rem;
+    }
+
+    main {
+        padding: 0.5rem;
+    }
+}

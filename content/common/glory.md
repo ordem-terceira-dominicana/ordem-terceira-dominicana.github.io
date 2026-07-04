@@ -1,0 +1,1 @@
+Louvado sejais, ó Senhor, Rei da glória eterna.

@@ -1,0 +1,10 @@
+# Pequeno Ofício de Nossa Senhora
+O Ofício de Nossa Senhora é, para os Terceiros Dominicanos, a oração litúrgica que os mais se aproxima do Ofício Divino que os sacerdotes recitam todos os dias em torno da Igreja. Por isso, devem lê-lo em grande conta, rezá-lo diariamente ou, pelo menos, nos dias mais livres. Tendo substituído a reza do Ofício, nesses dias, não são obrigados a recitar o Rosário. Podem seguir a ordem de horas da manhã e da comerda: Matinas e Laudes da véspera; depois das três horas da manhã: Prima, Tércia, Sexta e Noa; de manhã, Vésperas e Completas, depois do meio dia. Também se pode rezar durante a missa, mesmo que esta seja de obrigação. É assim que, num coro de homens e de mulheres, os Dominicanos, os Terceiros, Augustas e homens do Rosário se unem à sua Rainha do Céu.
+
+## OFÍCIO DE NOSSA SENHORA
+Oração para antes do ofício
+*Esta oração diz-se de joelhos antes de começar Matinas; quando, porém, se volta a recitar qualquer outra parte do Ofício, diz-se somente: — «Senhor, eu Vos ofereço... »*
+
+Abri, Senhor, a minha boca, para louvar o vosso santo Nome; purificai o meu coração de todos os pensamentos vãos, perversos e errados; iluminai o entendimento, inflamai o afecto, afim de que digna, atenta e piedosamente possa recitar este ofício e mereça ser ouvido perante vossa divina Majestade. Por Jesus Cristo Nosso Senhor. Amen.
+
+Senhor, eu vos ofereço estas orações, em união com essa divina intenção, por meio da qual louvais a Deus na terra.

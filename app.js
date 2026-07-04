@@ -18,7 +18,18 @@ async function main() {
                 : office.solar_cycle;
         }
 
-        const intro = await loadOffice("common", "introduction");
+        let intro = await loadOffice("common", "introduction");
+
+        /* Se não for Matinas, encurtar a introdução*/
+        if (hour !== Hour.MATINS) {
+            const marker = "Senhor, eu vos ofereço";
+            const idx = intro.indexOf(marker);
+        
+            if (idx !== -1) {
+                intro = intro.slice(idx); // fica só a parte curta
+            }
+        }
+
         let filesToLoad = [];
         
         if (hour === Hour.MATINS || hour === Hour.LAUDS) {
@@ -42,13 +53,14 @@ async function main() {
 
 
         markdown = intro + "\n\n" + markdown;
-
-        markdown = markdown.replace(
-            "{{include:response}}",
+        
+        markdown = markdown.replaceAll(
+            /{{\s*include\s*:\s*response\s*}}/g,
             office.alleluia
                 ? "{{include:common/alleluia}}"
                 : "{{include:common/glory}}"
         );
+
 
         const html = await render(markdown);
 

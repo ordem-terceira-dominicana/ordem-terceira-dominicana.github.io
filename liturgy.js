@@ -114,19 +114,34 @@ function getCurrentOfficeHour() {
     const now = new Date();
     const hour = now.getHours();
 
-    // Madrugada: Matinas + Laudes
-    if (hour < 6) return Hour.MATINS;      // 00:00–05:59
-    if (hour < 8) return Hour.LAUDS;       // 06:00–07:59
+    // De acordo com:
+    // MANUAL DA ORDEM TERCEIRA DE S. DOMINGOS (1949). 2ª edição. Tipografia Porto Médico. Porto. 
+    // De manhã: Prima, Tércia, Sexta, Noa
+    if (hour < 12) {
+        return [
+            Hour.PRIME,
+            Hour.TERCE,
+            Hour.SEXT,
+            Hour.NONE
+        ];
+    }
 
-    // Horas menores: Prima, Tércia, Sexta, Noa
-    if (hour < 9) return Hour.PRIME;       // 08:00–08:59
-    if (hour < 12) return Hour.TERCE;      // 09:00–11:59
-    if (hour < 15) return Hour.SEXT;       // 12:00–14:59
-    if (hour < 17) return Hour.NONE;       // 15:00–16:59
+    // Depois do meio dia, antes das 15: Vésperas e Completas
+    if (hour < 15) {
+        return [
+            Hour.VESPERS,
+            Hour.COMPLINE
+        ];
+    }
 
-    // Tarde: Vésperas + Completas
-    if (hour < 20) return Hour.VESPERS;    // 17:00–19:59
-    return Hour.COMPLINE;                  // 20:00–23:59
+    // Depois das 15: Matinas e Laudes de véspera
+    return [
+        Hour.MATINS,
+        Hour.LAUDS
+    ];
+
+    // fallback (não deve acontecer)
+    return Hour.NONE;
 }
 
 export {

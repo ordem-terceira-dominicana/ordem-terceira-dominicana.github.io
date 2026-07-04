@@ -8,7 +8,7 @@ const FILES_TO_CACHE = [
   "/liturgy.js",
   "/loader.js",
   "/renderer.js",
-  "/manifest.json",
+  "/manifest.webmanifest",
   "/img/ordem-dominicana.svg"
 ];
 

@@ -1,3 +1,5 @@
+![Ordem Dominicana](https://github.com/ordem-terceira-dominicana/ordem-terceira-dominicana.github.io/blob/main/img/ordem-dominicana.svg
+
 # Pequeno Ofício de Nossa Senhora segundo o Rito Dominicano
 
 Este projeto apresenta uma versão digital, simples e fiel do **Pequeno Ofício de Nossa Senhora**, seguindo a tradição da **Ordem Dominicana**.  

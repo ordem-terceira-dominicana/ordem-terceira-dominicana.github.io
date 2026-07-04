@@ -116,23 +116,29 @@ function getCurrentOfficeHour() {
 
     // De acordo com:
     // MANUAL DA ORDEM TERCEIRA DE S. DOMINGOS (1949). 2ª edição. Tipografia Porto Médico. Porto. 
-    // 1) Depois das 3 da tarde: Matinas de véspera
-    if (hour >= 15) {
-        return Hour.MATINS;   // Matinas de véspera
-    }
-
-    // 2) De manhã: Vésperas e Completas (suplência)
+    // De manhã: Prima, Tércia, Sexta, Noa
     if (hour < 12) {
-        // 00:00–11:59 → Vésperas e Completas
-        // O livro não distingue qual das duas, mas podemos seguir a ordem:
-        if (hour < 9) return Hour.VESPERS;     // madrugada/manhã cedo
-        return Hour.COMPLINE;                  // final da manhã
+        return [
+            Hour.PRIME,
+            Hour.TERCE,
+            Hour.SEXT,
+            Hour.NONE
+        ];
     }
 
-    // 3) Horas menores à tarde (12h–15h)
-    if (hour < 13) return Hour.PRIME;          // 12:00–12:59
-    if (hour < 14) return Hour.TERCE;          // 13:00–13:59
-    if (hour < 15) return Hour.SEXT;           // 14:00–14:59
+    // Depois do meio dia, antes das 15: Vésperas e Completas
+    if (hour < 15) {
+        return [
+            Hour.VESPERS,
+            Hour.COMPLINE
+        ];
+    }
+
+    // Depois das 15: Matinas e Laudes de véspera
+    return [
+        Hour.MATINS,
+        Hour.LAUDS
+    ];
 
     // fallback (não deve acontecer)
     return Hour.NONE;

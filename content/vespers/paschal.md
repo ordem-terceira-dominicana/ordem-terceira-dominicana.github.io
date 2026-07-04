@@ -224,8 +224,6 @@ As seguintes Comemorações dizem‑se diariamente durante todo o ano.
 Ó Deus, que concedestes à bem‑aventurada Catarina, adornada com um privilégio especial de virgindade e paciência, vencer os assaltos dos espíritos malignos e permanecer inabalável no amor do Vosso santo Nome, concedei, Vos suplicamos, que, seguindo o seu exemplo, calcando aos pés a maldade do mundo e vencendo as ciladas dos inimigos, possamos avançar em segurança para a Vossa glória. Por Cristo nosso Senhor.  
 **R:** Ámen.
 
-*(Omitida nas Laudes de festas de primeira ou segunda classe; também omitida a 30 de abril e durante a oitava.)*
-
 ---
 
 ## **TODOS OS SANTOS DA ORDEM DOMINICANA**

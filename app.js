@@ -42,13 +42,14 @@ async function main() {
 
 
         markdown = intro + "\n\n" + markdown;
-
-        markdown = markdown.replace(
-            "{{include:response}}",
+        
+        markdown = markdown.replaceAll(
+            /{{\s*include\s*:\s*response\s*}}/g,
             office.alleluia
                 ? "{{include:common/alleluia}}"
                 : "{{include:common/glory}}"
         );
+
 
         const html = await render(markdown);
 

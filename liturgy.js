@@ -272,24 +272,19 @@ function getCurrentOfficeHour() {
  * - se é um dia em que Santa Catarina deve ser omitida
  *   (independentemente da Hora).
  */
-function isSantaCatarinaOmittedByRank(date) {
-  const rank = getFeastRank(date);
-
-  // omitida em festas de 1ª ou 2ª classe
-  if (rank === 1 || rank === 2) return true;
-
-  // omitida a 30 de abril e durante a oitava
+function isSantaCatarinaOmittedByDate(date) {
   const m = date.getMonth();
   const d = date.getDate();
 
-  const isProperDay = (m === 3 && d === 30);
+  // 30 de abril
+  if (m === 3 && d === 30) return true;
+
+  // oitava: 30 abril → 6 maio
   const inOctave =
-    (m === 3 && d >= 30) || // 30, 31 abril
-    (m === 4 && d <= 6);    // 1–6 maio
+    (m === 3 && d >= 30) ||
+    (m === 4 && d <= 6);
 
-  if (isProperDay || inOctave) return true;
-
-  return false;
+  return inOctave;
 }
 
 export {
@@ -304,7 +299,6 @@ export {
     isFirstClass,
     isSecondClass,
     getFeastRank,
-    shouldOmitLaudes,
-    shouldShowSantaCatarina
+    isSantaCatarinaOmittedByDate 
 };
 

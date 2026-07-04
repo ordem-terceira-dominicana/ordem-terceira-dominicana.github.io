@@ -26,6 +26,124 @@ function easter(year) {
     return new Date(year, month - 1, day);
 }
 
+// Fontes:
+// - Rubricae Generales Breviarii et Missalis (S.C.R. Prot. N. O.126/960, 16 Dec 1960)
+//   Documento: "1960 General Rubrics.pdf"
+// - Calendarium Ordinis Praedicatorum Reformatus (1960)
+const firstClassFeasts = [
+  { month: 11, day: 25, name: "Natal" },
+  { month: 0,  day: 6,  name: "Epifania" },
+  { month: 2,  day: 19, name: "São José" },
+  { month: 2,  day: 25, name: "Anunciação" },
+  { month: 7,  day: 15, name: "Assunção" },
+  { month: 8,  day: 8,  name: "Natividade de Nossa Senhora" },
+  { month: 10, day: 1,  name: "Todos os Santos" },
+  { month: 11, day: 8,  name: "Imaculada Conceição" },
+
+  { movable: "Easter", name: "Domingo de Páscoa" },
+  { movable: "Pentecost", name: "Pentecostes" },
+  { movable: "Ascension", name: "Ascensão" },
+  { movable: "CorpusChristi", name: "Corpus Christi" },
+  { movable: "ChristKing", name: "Cristo Rei" },
+
+  { movable: "AdventSundays", name: "Domingos de Advento" },
+  { movable: "LentSundays", name: "Domingos de Quaresma" },
+  { movable: "PassionSundays", name: "Domingos da Paixão" },
+
+  { month: 7,  day: 4,  name: "São Domingos" },
+  { month: 0,  day: 28, name: "São Tomás de Aquino" },
+  { month: 9,  day: 7,  name: "Nossa Senhora do Rosário" }
+];
+
+const secondClassFeasts = [
+  { month: 1,  day: 22, name: "Cátedra de São Pedro" },
+  { month: 3,  day: 25, name: "São Marcos" },
+  { month: 4,  day: 11, name: "São Filipe e Tiago" },
+  { month: 5,  day: 29, name: "São Pedro e São Paulo" },
+  { month: 7,  day: 6,  name: "Transfiguração" },
+  { month: 8,  day: 14, name: "Exaltação da Santa Cruz" },
+  { month: 8,  day: 21, name: "São Mateus" },
+  { month: 9,  day: 18, name: "São Lucas" },
+  { month: 10, day: 30, name: "São André" },
+  { month: 11, day: 26, name: "Santo Estêvão" },
+  { month: 11, day: 27, name: "São João Evangelista" },
+  { month: 11, day: 28, name: "Santos Inocentes" },
+
+  { movable: "SecondClassSundays", name: "Domingos de 2ª classe" },
+
+  { month: 3,  day: 30, name: "Santa Catarina de Sena" },
+  { month: 3,  day: 5,  name: "São Vicente Ferrer" },
+  { month: 3,  day: 29, name: "São Pedro Mártir" },
+  { month: 4,  day: 10, name: "São Antonino" },
+  { month: 7,  day: 30, name: "Santa Rosa de Lima" },
+
+  { month: 10, day: 12, name: "Todos os Santos da Ordem" },
+  { month: 10, day: 13, name: "Defuntos da Ordem" }
+];
+
+
+
+function isFixedFeast(date, list) {
+  return list.some(f =>
+    f.month !== undefined &&
+    f.day !== undefined &&
+    f.month === date.getMonth() &&
+    f.day === date.getDate()
+  );
+}
+
+function isMovableFeast(date, feastName) {
+  const year = date.getFullYear();
+  const easterSunday = easter(year);
+
+  switch (feastName) {
+    case "Easter":
+      return date.toDateString() === easterSunday.toDateString();
+    case "Ascension":
+      return date.toDateString() === addDays(easterSunday, 39).toDateString();
+    case "Pentecost":
+      return date.toDateString() === addDays(easterSunday, 49).toDateString();
+    case "CorpusChristi":
+      return date.toDateString() === addDays(easterSunday, 60).toDateString();
+    case "ChristKing": {
+      const d = new Date(year, 9, 31);
+      while (d.getDay() !== 0) d.setDate(d.getDate() - 1);
+      return date.toDateString() === d.toDateString();
+    }
+    case "AdventSundays":
+      return getLittleOfficeSeason(date).solar_cycle === OfficeSeason.ADVENT &&
+             date.getDay() === 0;
+    case "LentSundays":
+      return date.getDay() === 0 &&
+             date >= new Date(year, 1, 14) &&
+             date < easterSunday;
+    case "PassionSundays":
+      return date.getDay() === 0 &&
+             date >= addDays(easterSunday, -14) &&
+             date < easterSunday;
+    case "SecondClassSundays":
+      return date.getDay() === 0;
+    default:
+      return false;
+  }
+}
+
+function isFirstClass(date) {
+  if (isFixedFeast(date, firstClassFeasts)) return true;
+  return firstClassFeasts.some(f => f.movable && isMovableFeast(date, f.movable));
+}
+
+function isSecondClass(date) {
+  if (isFixedFeast(date, secondClassFeasts)) return true;
+  return secondClassFeasts.some(f => f.movable && isMovableFeast(date, f.movable));
+}
+
+function getFeastRank(date) {
+  if (isFirstClass(date)) return 1;
+  if (isSecondClass(date)) return 2;
+  return 0;
+}
+
 function addDays(date, days) {
     const d = new Date(date);
     d.setDate(d.getDate() + days);
@@ -144,6 +262,36 @@ function getCurrentOfficeHour() {
     return Hour.NONE;
 }
 
+/**
+ * Santa Catarina de Sena:
+ * - ocorre a 30 de abril (II classe)
+ * - omitida nas Laudes de festas de 1ª ou 2ª classe;
+ *   também omitida a 30 de abril e durante a oitava.
+ *
+ * Esta função só calcula a parte "litúrgica":
+ * - se é um dia em que Santa Catarina deve ser omitida
+ *   (independentemente da Hora).
+ */
+function isSantaCatarinaOmittedByRank(date) {
+  const rank = getFeastRank(date);
+
+  // omitida em festas de 1ª ou 2ª classe
+  if (rank === 1 || rank === 2) return true;
+
+  // omitida a 30 de abril e durante a oitava
+  const m = date.getMonth();
+  const d = date.getDate();
+
+  const isProperDay = (m === 3 && d === 30);
+  const inOctave =
+    (m === 3 && d >= 30) || // 30, 31 abril
+    (m === 4 && d <= 6);    // 1–6 maio
+
+  if (isProperDay || inOctave) return true;
+
+  return false;
+}
+
 export {
     easter,
     addDays,
@@ -152,6 +300,11 @@ export {
     getLittleOfficeSeason,
     getCurrentOfficeHour,
     OfficeSeason,
-    Hour
+    Hour,
+    isFirstClass,
+    isSecondClass,
+    getFeastRank,
+    shouldOmitLaudes,
+    shouldShowSantaCatarina
 };
 

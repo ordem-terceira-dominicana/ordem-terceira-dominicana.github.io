@@ -115,7 +115,7 @@ function getCurrentOfficeHour() {
     const hour = now.getHours();
 
     // De acordo com:
-    // MANUAL DA ORDEN TERCEIRA DE S. DOMINGOS (1949). 2ª edição. Tipografia Porto Médico. Porto. 
+    // MANUAL DA ORDEM TERCEIRA DE S. DOMINGOS (1949). 2ª edição. Tipografia Porto Médico. Porto. 
     // 1) Depois das 3 da tarde: Matinas de véspera
     if (hour >= 15) {
         return Hour.MATINS;   // Matinas de véspera

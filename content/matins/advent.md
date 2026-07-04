@@ -1,6 +1,6 @@
-## MATINAS[^1]
+## MATINAS
 
-[^1]: Sendo duas ou mais pessoas a rezar o Officio, a que preside, diz as palavras precedidas do sinal **V**, e as outras respondem com as palavras precedidas do sinal **R**. Isto observa-se na reza de todo o Officio.
+*Sendo duas ou mais pessoas a rezar o Officio, a que preside, diz as palavras precedidas do sinal **V**, e as outras respondem com as palavras precedidas do sinal **R**. Isto observa-se na reza de todo o Officio.*
 
 A primeira Hora do Ofício chama‑se **Matinas**, ou Ofício da Manhã, porque parece ser a continuação das Vigílias ou Guardas Noturnas dos primeiros cristãos, que costumavam passar o tempo desde a meia‑noite até ao amanhecer em orações e meditações, como preparação para as grandes festas. Uma intenção apropriada para a recitação das Matinas é a preparação para a vinda do Senhor, seja na Sagrada Comunhão do dia seguinte, seja no Seu juízo na hora da morte.
 

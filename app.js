@@ -2,6 +2,15 @@ import { getLittleOfficeSeason,  getCurrentOfficeHour, OfficeSeason, Hour } from
 import { loadOffice } from "./loader.js";
 import { render } from "./renderer.js";
 
+function removeSantaCatarina(markdown) {
+  const marker = "SANTA CATARINA DE SENA";
+  const idx = markdown.indexOf(marker);
+  if (idx !== -1) {
+    return markdown.slice(0, idx).trim();
+  }
+  return markdown;
+}
+
 async function main() {
     try {
         const hour = getCurrentOfficeHour();
@@ -61,6 +70,29 @@ async function main() {
                 : "{{include:common/glory}}"
         );
 
+        // --- OMISSÃO DE SANTA CATARINA ---
+        const today = new Date();
+        const rank = getFeastRank(today);
+        
+        // 1. Laudes — omite por rank OU por data
+        if (hour === Hour.LAUDS) {
+          const omit =
+            rank === 1 ||
+            rank === 2 ||
+            isSantaCatarinaOmittedByDate(today);
+        
+          if (omit) {
+            markdown = removeSantaCatarina(markdown);
+          }
+        }
+        
+        // 2. Vésperas — omite APENAS por data
+        if (hour === Hour.VESPERS) {
+          if (isSantaCatarinaOmittedByDate(today)) {
+            markdown = removeSantaCatarina(markdown);
+          }
+        }
+        // --- Fim de Omissão ---
 
         const html = await render(markdown);
 

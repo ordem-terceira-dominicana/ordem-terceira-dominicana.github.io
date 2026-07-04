@@ -43,5 +43,5 @@ async function main() {
 
 main();
 if ("serviceWorker" in navigator) {
-  navigator.serviceWorker.register("/sw.js");
+  navigator.serviceWorker.register(`${location.pathname}sw.js`);
 }

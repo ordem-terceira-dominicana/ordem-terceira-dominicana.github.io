@@ -19,7 +19,27 @@ async function main() {
         }
 
         const intro = await loadOffice("common", "introduction");
-        let markdown = await loadOffice(hour, seasonToUse);
+        let filesToLoad = [];
+        
+        if (hour === Hour.MATINS || hour === Hour.LAUDS) {
+            filesToLoad = ["matins", "lauds"];
+        } else if (
+            hour === Hour.PRIME ||
+            hour === Hour.TERCE ||
+            hour === Hour.SEXT ||
+            hour === Hour.NONE
+        ) {
+            filesToLoad = ["prime", "terce", "sext", "none"];
+        } else {
+            filesToLoad = ["vespers", "compline"];
+        }
+        
+        let markdown = "";
+        
+        for (const h of filesToLoad) {
+            markdown += await loadOffice(h, seasonToUse) + "\n\n";
+        }
+
 
         markdown = intro + "\n\n" + markdown;
 

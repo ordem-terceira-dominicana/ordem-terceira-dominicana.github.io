@@ -1,7 +1,7 @@
 {
   "name": "Pequeno Ofício de Nossa Senhora no Rito Dominicano",
   "short_name": "Ofício",
-  "start_url": "/index.html",
+  "start_url": "index.html"
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",

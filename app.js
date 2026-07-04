@@ -1,4 +1,11 @@
-import { getLittleOfficeSeason,  getCurrentOfficeHour, OfficeSeason, Hour } from "./liturgy.js";
+import { 
+  getLittleOfficeSeason,  
+  getCurrentOfficeHour, 
+  OfficeSeason, 
+  Hour, 
+  getFeastRank, 
+  isSantaCatarinaOmittedByDate
+} from "./liturgy.js";
 import { loadOffice } from "./loader.js";
 import { render } from "./renderer.js";
 

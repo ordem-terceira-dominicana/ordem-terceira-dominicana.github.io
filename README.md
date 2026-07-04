@@ -1,4 +1,6 @@
-![Ordem Dominicana](https://github.com/ordem-terceira-dominicana/ordem-terceira-dominicana.github.io/blob/main/img/ordem-dominicana.svg
+<p align="center">
+  <img src="img/ordem-dominicana.svg" alt="Ordem Dominicana" width="180">
+</p>
 
 # Pequeno Ofício de Nossa Senhora segundo o Rito Dominicano
 

@@ -43,13 +43,14 @@ async function main() {
     }
 
     let intro = await loadOffice("common", "introduction");
+    let opening_prayer = await loadOffice("common", "introduction");
 
     // Se não for Matinas, encurtar a introdução
     if (!hour.includes(Hour.MATINS)) {
       const marker = "Senhor, eu vos ofereço";
-      const idx = intro.indexOf(marker);
+      const idx = opening_prayer.indexOf(marker);
       if (idx !== -1) {
-        intro = intro.slice(idx);
+        opening_prayer = opening_prayer.slice(idx);
       }
     }
 
@@ -80,7 +81,7 @@ async function main() {
       markdown += commemorations + "\n\n";
     }
 
-    markdown = intro + "\n\n" + markdown;
+    markdown = intro + opening_prayer + "\n\n" + markdown;
     
     markdown = markdown.replaceAll(
       /{{\s*include\s*:\s*response\s*}}/g,

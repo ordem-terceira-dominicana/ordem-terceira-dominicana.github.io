@@ -84,9 +84,49 @@ Glória seja a Ti, ó Senhor, Filho da Virgem, adorado por todos; e igual louvor
 
 ### **Cântico dos Três Jovens (Daniel 3, 56–88)**
 
-_(O mesmo texto que aparece em Laudes; recitado integralmente.)_
+(Beneditus: “Bendizei o Senhor”)
 
-O texto é idêntico ao da secção de Laudes, pelo que não o repito aqui para evitar redundância. Se quiser, posso incluí‑lo integralmente também.
+Ó todas as obras do Senhor, bendizei o Senhor; louvai‑O e exaltai‑O para sempre.
+
+Anjos do Senhor, bendizei o Senhor; céus, bendizei o Senhor.
+
+Águas que estais sobre os céus, bendizei o Senhor; todas as potências do Senhor, bendizei o Senhor.
+
+Sol e lua, bendizei o Senhor; estrelas do céu, bendizei o Senhor.
+
+Chuvas e orvalhos, bendizei o Senhor; ventos de Deus, bendizei o Senhor.
+
+Fogo e calor, bendizei o Senhor; frio e calor, bendizei o Senhor.
+
+Orvalhos e geadas, bendizei o Senhor; gelos e neves, bendizei o Senhor.
+
+Noites e dias, bendizei o Senhor; luz e trevas, bendizei o Senhor.
+
+Relâmpagos e nuvens, bendizei o Senhor.
+
+Que a terra bendiga o Senhor; louve‑O e exalte‑O para sempre.
+
+Montes e colinas, bendizei o Senhor; todas as coisas que germinam na terra, bendizei o Senhor.
+
+Fontes, bendizei o Senhor; mares e rios, bendizei o Senhor.
+
+Peixes e tudo o que se move nas águas, bendizei o Senhor; aves do céu, bendizei o Senhor.
+
+Animais e gado, bendizei o Senhor; filhos dos homens, bendizei o Senhor.
+
+Israel, bendizei o Senhor; louvai‑O e exaltai‑O para sempre.
+
+Sacerdotes do Senhor, bendizei o Senhor; servos do Senhor, bendizei o Senhor.
+
+Espíritos e almas dos justos, bendizei o Senhor; santos e humildes de coração, bendizei o Senhor.
+
+Ananias, Azarias e Misael, bendizei o Senhor; louvai‑O e exaltai‑O para sempre.
+
+(Todos se inclinam) Bendigamos o Pai e o Filho com o Espírito Santo; louvemo‑O e exaltemo‑O para sempre.
+
+Bendito sois, Senhor, no firmamento do céu, digno de louvor e de glória para sempre.
+
+(Não se diz Glória ao Pai aqui.)
 
 ### **Antífona da Prime**
 

@@ -17,7 +17,7 @@ O objetivo é oferecer uma experiência limpa, rápida e contemplativa, com as c
 Criar uma aplicação web minimalista que:
 
 - apresenta automaticamente as Horas litúrgica atuais;
-- determina o tempo litúrgico (solar e pascal);
+- determina o tempo litúrgico (temporal e pascal);
 - carrega o texto correspondente a partir de ficheiros Markdown;
 - expande includes internos;
 - aplica a lógica de *aleluia* conforme o tempo;

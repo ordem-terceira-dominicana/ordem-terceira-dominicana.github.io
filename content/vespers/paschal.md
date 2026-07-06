@@ -181,7 +181,7 @@ Concedei, Vos suplicamos, ó Senhor Deus, que nós, Vossos servos, gozemos de co
 
 ## **Do Domingo da Santíssima Trindade até ao Advento**
 
-**Ant.** Santa Maria, socorrei os miseráveis, ajudai os fracos de coração, consolai os aflitos, rogai pelo povo, intercedei pelo clero, fazei intercessão pelo sexo feminino devoto.
+**Ant.** Santa Maria, socorrei os miseráveis, ajudai os fracos, consolai os aflitos, orai pelo povo, intercedei pelo clero e ainda pelas vossas piedadosas servas.
 
 **V:** Senhor, ouvi a minha oração.  
 **R:** E chegue até Vós o meu clamor.

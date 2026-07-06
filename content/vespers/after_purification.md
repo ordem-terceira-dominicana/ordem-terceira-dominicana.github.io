@@ -168,7 +168,7 @@ Glória ao Pai…
 
 ### **Antífonas e Orações segundo o Tempo Litúrgico**
 
-**Ant.** Santa Maria, socorrei os miseráveis, ajudai os fracos de coração, consolai os aflitos, rogai pelo povo, intercedei pelo clero, fazei intercessão pelo sexo feminino devoto.
+**Ant.** Santa Maria, socorrei os miseráveis, ajudai os fracos, consolai os aflitos, orai pelo povo, intercedei pelo clero e ainda pelas vossas piedadosas servas.
 
 **V:** Senhor, ouvi a minha oração.  
 **R:** E chegue até Vós o meu clamor.

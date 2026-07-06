@@ -43,7 +43,7 @@ async function main() {
     }
 
     let intro = await loadOffice("common", "introduction");
-    let opening_prayer = await loadOffice("common", "introduction");
+    let opening_prayer = await loadOffice("common", "opening_prayer");
 
     // Se não for Matinas, encurtar a introdução
     if (!hour.includes(Hour.MATINS)) {

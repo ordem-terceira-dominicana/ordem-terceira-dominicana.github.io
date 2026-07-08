@@ -125,7 +125,7 @@ async function updateOffice() {
   }
 }
 
-// --- INTERFAZ E EVENTOS DO MENU ---
+// --- INTERFACE E EVENTOS DO MENU ---
 function setupMenu() {
   const menuToggle = document.getElementById("menu-toggle");
   const optionsMenu = document.getElementById("options-menu");
@@ -163,7 +163,7 @@ function setupMenu() {
           localStorage.setItem("office-mode", mode);
 
           if (mode === "livre") {
-              horaSelector.style.style.display = "block";
+              horaSelector.style.display = "block"; // <-- Corrigido aqui!
           } else {
               horaSelector.style.display = "none";
           }

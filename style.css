@@ -78,3 +78,123 @@ a {
         padding: 0.5rem;
     }
 }
+
+/* -------------------------------------------------------
+   Menu de Opções e Tooltips (Estilo Dominicano)
+   ------------------------------------------------------- */
+
+#menu-toggle {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    z-index: 1001;
+    padding: 5px;
+}
+
+#options-menu {
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    background-color: #ffffff;
+    border: 1px solid #000000;
+    padding: 20px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    z-index: 1000;
+    width: 240px;
+}
+
+#options-menu h3 {
+    margin: 0 0 15px 0;
+    font-size: 16px;
+    text-align: left;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-bottom: 1px solid #000;
+    padding-bottom: 5px;
+}
+
+.mode-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 12px;
+}
+
+.mode-row label {
+    font-size: 15px;
+    cursor: pointer;
+}
+
+#hora-selector {
+    margin-top: 15px;
+    border-top: 1px dashed #ccc;
+    padding-top: 15px;
+}
+
+#horas {
+    width: 100%;
+    padding: 6px;
+    font-family: inherit;
+    border: 1px solid #000;
+    background: #fff;
+}
+
+/* Tooltips */
+.tooltip {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    color: #666;
+    font-size: 14px;
+    padding: 0 5px;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 220px;
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    border-radius: 4px;
+    padding: 10px;
+    position: absolute;
+    z-index: 1005;
+    bottom: 130%;
+    right: 0;
+    opacity: 0;
+    transition: opacity 0.2s;
+    font-family: sans-serif;
+    font-size: 12px;
+    line-height: 1.4;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.3);
+}
+
+.tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    right: 8px;
+    border-width: 6px;
+    border-style: solid;
+    border-color: #000 transparent transparent transparent;
+}
+
+/* Ativação por Hover ou Toque */
+.tooltip:hover .tooltiptext,
+.tooltip:active .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+
+@media (max-width: 600px) {
+    #options-menu {
+        right: 10px;
+        left: 10px;
+        width: auto;
+        box-sizing: border-box;
+    }
+}

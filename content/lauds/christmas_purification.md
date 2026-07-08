@@ -1,4 +1,4 @@
-## **LAUDS**
+## **LAUDES**
 
 ### Introdução
 

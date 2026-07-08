@@ -26,14 +26,21 @@ function removeSantaCatarina(markdown) {
   );
 }
 
-async function main() {
+// Nova função principal para renderizar dependendo do estado
+// Substitui a função updateOffice() antiga no teu app.js por esta:
+async function updateOffice() {
   try {
-    const hour = getCurrentOfficeHour();
+    document.getElementById("office").innerHTML = "<p>A carregar...</p>";
+
+    // Ler as configurações salvas ou assumir o padrão
+    const activeMode = localStorage.getItem("office-mode") || "secular";
+    const selectedHour = localStorage.getItem("office-selected-hour") || "matins";
+
+    const hour = getCurrentOfficeHour(activeMode, selectedHour);
     const office = getLittleOfficeSeason(Date.now());
 
     let seasonToUse;
 
-    // Tércia só se aplica se estiver no array
     if (hour.includes(Hour.TERCE)) {
       seasonToUse = office.solar_cycle;
     } else {
@@ -45,7 +52,6 @@ async function main() {
     let intro = await loadOffice("common", "introduction");
     let opening_prayer = await loadOffice("common", "opening_prayer");
 
-    // Se não for Matinas, encurtar a introdução
     if (!hour.includes(Hour.MATINS)) {
       const marker = "Senhor, eu vos ofereço";
       const idx = opening_prayer.indexOf(marker);
@@ -54,20 +60,28 @@ async function main() {
       }
     }
 
+    // --- CORREÇÃO DO AGRUPAMENTO POR MODO ---
     let filesToLoad = [];
     
-    if (hour.includes(Hour.MATINS) || hour.includes(Hour.LAUDS)) {
-      filesToLoad = ["matins", "lauds"];
-    } else if (
-      hour.includes(Hour.PRIME) ||
-      hour.includes(Hour.TERCE) ||
-      hour.includes(Hour.SEXT) ||
-      hour.includes(Hour.NONE)
-    ) {
-      filesToLoad = ["prime", "terce", "sext", "none"];
+    if (activeMode === "secular") {
+      // No modo Secular, mantém-se o agrupamento tradicional do site
+      if (hour.includes(Hour.MATINS) || hour.includes(Hour.LAUDS)) {
+        filesToLoad = ["matins", "lauds"];
+      } else if (
+        hour.includes(Hour.PRIME) ||
+        hour.includes(Hour.TERCE) ||
+        hour.includes(Hour.SEXT) ||
+        hour.includes(Hour.NONE)
+      ) {
+        filesToLoad = ["prime", "terce", "sext", "none"];
+      } else {
+        filesToLoad = ["vespers", "compline"];
+      }
     } else {
-      filesToLoad = ["vespers", "compline"];
+      // Nos modos Monástico e Livre, carrega APENAS a hora exata do relógio ou da seleção
+      filesToLoad = hour; 
     }
+    // ----------------------------------------
     
     let markdown = "";
     
@@ -75,7 +89,7 @@ async function main() {
       markdown += await loadOffice(h, seasonToUse) + "\n\n";
     }
 
-    // Comemorações
+    // Comemorações (apenas se a hora atual/selecionada for Laudes ou Vésperas)
     if (hour.includes(Hour.LAUDS) || hour.includes(Hour.VESPERS)) {
       const commemorations = await loadOffice("common", "commemorations");
       markdown += commemorations + "\n\n";
@@ -90,11 +104,9 @@ async function main() {
         : "{{include:common/glory}}"
     );
 
-    // --- OMISSÃO DE SANTA CATARINA ---
     const today = new Date();
     const rank = getFeastRank(today);
     
-    // Laudes — omite por rank OU por data
     if (hour.includes(Hour.LAUDS)) {
       const omit =
         rank === 1 ||
@@ -106,26 +118,84 @@ async function main() {
       }
     }
     
-    // Vésperas — omite APENAS por data
     if (hour.includes(Hour.VESPERS)) {
       if (isSantaCatarinaOmittedByDate(today)) {
         markdown = removeSantaCatarina(markdown);
       }
     }
-    // --- Fim de Omissão ---
 
     const html = await render(markdown);
 
     document.getElementById("office").innerHTML = html;
-    document.title = `Pequeno Ofício — ${hour.join(", ")}`;
+    document.title = `Pequeno Ofício — ${hour.join(", ").toUpperCase()}`;
 
   } catch (err) {
     console.error(err);
+    document.getElementById("office").innerHTML = "<p>Erro ao carregar o Ofício.</p>";
   }
 }
 
-main();
+// --- INTERFACE E EVENTOS DO MENU ---
+function setupMenu() {
+  const menuToggle = document.getElementById("menu-toggle");
+  const optionsMenu = document.getElementById("options-menu");
+  const horaSelector = document.getElementById("hora-selector");
+  const hourDropdown = document.getElementById("horas");
 
-if ("serviceWorker" in navigator) {
-  navigator.serviceWorker.register(`${location.pathname}sw.js`);
+  // Recuperar do localStorage para sincronizar a UI inicial
+  const savedMode = localStorage.getItem("office-mode") || "secular";
+  const savedHour = localStorage.getItem("office-selected-hour") || "matins";
+
+  document.querySelector(`input[name="op-mode"][value="${savedMode}"]`).checked = true;
+  hourDropdown.value = savedHour;
+
+  if (savedMode === "livre") {
+      horaSelector.style.display = "block";
+  }
+
+  // Abrir / Fechar menu
+  menuToggle.addEventListener("click", (e) => {
+      e.stopPropagation();
+      optionsMenu.style.display = optionsMenu.style.display === "none" ? "block" : "none";
+  });
+
+  // Fechar menu ao clicar fora dele
+  document.addEventListener("click", (e) => {
+      if (!optionsMenu.contains(e.target) && e.target !== menuToggle) {
+          optionsMenu.style.display = "none";
+      }
+  });
+
+  // Mudança de Modo (Secular / Monástico / Livre)
+  document.querySelectorAll('input[name="op-mode"]').forEach(radio => {
+      radio.addEventListener("change", (e) => {
+          const mode = e.target.value;
+          localStorage.setItem("office-mode", mode);
+
+          if (mode === "livre") {
+              horaSelector.style.display = "block"; // <-- Corrigido aqui!
+          } else {
+              horaSelector.style.display = "none";
+          }
+          updateOffice();
+      });
+  });
+
+  // Mudança de hora manual (Modo Livre)
+  hourDropdown.addEventListener("change", (e) => {
+      localStorage.setItem("office-selected-hour", e.target.value);
+      updateOffice();
+  });
 }
+
+// Inicialização Geral
+function init() {
+  setupMenu();
+  updateOffice();
+
+  if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register(`${location.pathname}sw.js`);
+  }
+}
+
+init();

@@ -12,7 +12,7 @@ Assim como o sol começa a difundir calor sobre a terra a esta hora, é apropria
 
 **V.** Deus, vinde em meu auxílio. **R.** Senhor, apressai-vos em socorrer‑me.
 
-**V.** Glória ao Pai, e ao Filho, e ao Espírito Santo. **R.** Como era no princípio, agora e sempre, _pelos séculos dos séculos_. Amém. {{include:response}}
+**V.** Glória ao Pai, e ao Filho, e ao Espírito Santo. **R.** Assim como era no princípio, agora e sempre e por todos os séculos dos séculos. Amém. {{include:response}}
 
 ### **Hino**
 

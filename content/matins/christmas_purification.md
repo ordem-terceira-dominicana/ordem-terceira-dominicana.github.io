@@ -12,7 +12,7 @@ A primeira Hora do Ofício chama‑se **Matinas**, ou Ofício da Manhã, porque 
 
 **V.** Deus, vinde em meu auxílio. **R.** Senhor, apressai-vos em socorrer‑me.
 
-**V.** Glória ao Pai, e ao Filho, e ao Espírito Santo. **R.** Como era no princípio, agora e sempre, _pelos séculos dos séculos_. Amém. {{include:response}}
+**V.** Glória ao Pai, e ao Filho, e ao Espírito Santo. **R.** Assim como era no princípio, agora e sempre e por todos os séculos dos séculos. Amém. {{include:response}}
 
 ### **Invitatório**
 
@@ -43,7 +43,7 @@ Vinde, louvemos o Senhor com alegria; cantemos jubilosamente a Deus, nosso Salva
 
 **R.** Nosso Rei, Filho de uma Virgem: _Vinde, adoremos._
 
-**V.** Glória ao Pai, e ao Filho, e ao Espírito Santo. Como era no princípio, agora e sempre, _pelos séculos dos séculos_. Amém.
+**V.** Glória ao Pai, e ao Filho, e ao Espírito Santo. Assim como era no princípio, agora e sempre e por todos os séculos dos séculos. Amém.
 
 **R.** _Vinde, adoremos._
 

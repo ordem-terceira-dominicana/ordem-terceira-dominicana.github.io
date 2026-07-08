@@ -228,10 +228,28 @@ const Hour = Object.freeze({
     COMPLINE: "compline"
 });
 
-function getCurrentOfficeHour() {
+function getCurrentOfficeHour(mode = "secular", manualHour = null) {
+    // 1. Modo Livre
+    if (mode === "livre" && manualHour) {
+        return [manualHour];
+    }
+
     const now = new Date();
     const hour = now.getHours();
 
+    // 2. Modo Monástico (Horas estritas tradicionais)
+    if (mode === "monastico") {
+        if (hour >= 3 && hour < 6) return [Hour.MATINS];
+        if (hour >= 6 && hour < 7) return [Hour.LAUDS];
+        if (hour >= 7 && hour < 9) return [Hour.PRIME];
+        if (hour >= 9 && hour < 12) return [Hour.TERCE];
+        if (hour >= 12 && hour < 15) return [Hour.SEXT];
+        if (hour >= 15 && hour < 18) return [Hour.NONE];
+        if (hour >= 18 && hour < 20) return [Hour.VESPERS];
+        return [Hour.COMPLINE]; // 20h às 02h59
+    }
+
+    // 3. Modo Secular (Padrão - Atual recomendado aos Terciários)
     // De acordo com:
     // MANUAL DA ORDEM TERCEIRA DE S. DOMINGOS (1949). 2ª edição. Tipografia Porto Médico. Porto. 
     // De manhã: Prima, Tércia, Sexta, Noa
@@ -243,7 +261,6 @@ function getCurrentOfficeHour() {
             Hour.NONE
         ];
     }
-
     // Depois do meio dia, antes das 15: Vésperas e Completas
     if (hour < 15) {
         return [

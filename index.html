@@ -13,13 +13,58 @@
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <link rel="manifest" href="./manifest.webmanifest">
     <link rel="stylesheet" href="style.css">
-
-    
 </head>
 
 <body>
+    <button id="menu-toggle" aria-label="Opções">⚙️</button>
+
+    <div id="options-menu" style="display: none;">
+        <h3>Configuração</h3>
+        
+        <div class="mode-row">
+            <label>
+                <input type="radio" name="op-mode" value="secular"> Secular
+            </label>
+            <div class="tooltip">ⓘ
+                <span class="tooltiptext">Modo recomendado aos terciários. Agrupa as horas: Matinas/Laudes após as 15h; Menores de manhã; Vésperas/Completas após o meio-dia.</span>
+            </div>
+        </div>
+
+        <div class="mode-row">
+            <label>
+                <input type="radio" name="op-mode" value="monastico"> Monástico
+            </label>
+            <div class="tooltip">ⓘ
+                <span class="tooltiptext">Horas distribuídas rigidamente ao longo do dia: Matinas (03h), Laudes (06h), Prima (07h), Tércia (09h), Sexta (12h), Noa (15h), Vésperas (18h) e Completas (20h).</span>
+            </div>
+        </div>
+
+        <div class="mode-row">
+            <label>
+                <input type="radio" name="op-mode" value="livre"> Livre
+            </label>
+            <div class="tooltip">ⓘ
+                <span class="tooltiptext">Ofício Votivo. Permite-te escolher e rezar qualquer uma das horas em qualquer momento do dia, sem restrições horárias.</span>
+            </div>
+        </div>
+
+        <div id="hora-selector" style="display: none;">
+            <label for="horas" style="display:block; margin-bottom:5px; font-size:14px;">Escolha a Hora:</label>
+            <select id="horas">
+                <option value="matins">Matinas</option>
+                <option value="lauds">Laudes</option>
+                <option value="prime">Prima</option>
+                <option value="terce">Tércia</option>
+                <option value="sext">Sexta</option>
+                <option value="none">Noa (Nona)</option>
+                <option value="vespers">Vésperas</option>
+                <option value="compline">Completas</option>
+            </select>
+        </div>
+    </div>
+
     <div id="logo" style="text-align:center; margin-bottom: 1rem;">
-            <img src="/img/ordem-dominicana.svg" alt="Ordem Dominicana" width="120">
+        <img src="/img/ordem-dominicana.svg" alt="Ordem Dominicana" width="120">
     </div>
 
     <main id="office">
@@ -28,7 +73,5 @@
 
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script type="module" src="app.js"></script>
-
 </body>
-
 </html>

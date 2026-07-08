@@ -8,7 +8,7 @@ A primeira Hora do Ofício chama‑se **Matinas**, ou Ofício da Manhã, porque 
 
 **V.** Ave Maria, cheia de graça, o Senhor é convosco. **R.** Bendita sois vós entre as mulheres, e bendito é o fruto do vosso ventre, Jesus.
 
-Santa Maria, socorrei os miseráveis, ajudai os fracos, consolai os aflitos, **V.** Senhor, abri os meus lábios. **R.** E a minha boca anunciará os vossos louvores.
+**V.** Senhor, abri os meus lábios. **R.** E a minha boca anunciará os vossos louvores.
 
 **V.** Deus, vinde em meu auxílio. **R.** Senhor, apressai-vos em socorrer‑me.
 

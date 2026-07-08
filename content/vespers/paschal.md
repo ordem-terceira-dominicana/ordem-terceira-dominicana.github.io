@@ -8,7 +8,7 @@ Quando o sol se põe e surge Vésper, a estrela da tarde, a Igreja oferece a Deu
 
 **V.** Ave Maria, cheia de graça, o Senhor é convosco. **R.** Bendita sois vós entre as mulheres, e bendito é o fruto do vosso ventre, Jesus.
 
-**V.** Inclinai, ó Deus, para me ajudar. **R.** Senhor, apressa‑te em socorrer‑me.
+**V.** Deus, vinde em meu auxílio. **R.** Senhor, apressai-vos em socorrer‑me.
 
 **V.** Glória ao Pai, e ao Filho, e ao Espírito Santo. **R.** Como era no princípio, agora e sempre, _pelos séculos dos séculos_. Amém. {{include:response}}
 

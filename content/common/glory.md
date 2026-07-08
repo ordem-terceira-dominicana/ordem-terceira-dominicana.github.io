@@ -1,1 +1,1 @@
-Louvado sejais, ó Senhor, Rei da glória eterna.
+Louvor a Vós, Senhor, Rei da eterna glória.

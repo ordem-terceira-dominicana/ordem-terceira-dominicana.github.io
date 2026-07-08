@@ -6,7 +6,7 @@ Nas vigílias cristãs primitivas, as meditações e leituras que duravam desde 
 
 ### Abertura
 
-**V.** Inclinai, ó Deus, para me ajudar. **R.** Senhor, apressa‑te em socorrer‑me.
+**V.** Deus, vinde em meu auxílio. **R.** Senhor, apressai-vos em socorrer‑me.
 
 **V.** Glória ao Pai, e ao Filho, e ao Espírito Santo. **R.** Como era no princípio, agora e sempre, _pelos séculos dos séculos_. Amém. {{include:response}}
 

@@ -1,4 +1,4 @@
-## **PRIME**
+## **PRIMA**
 
 ### **Introdução**
 

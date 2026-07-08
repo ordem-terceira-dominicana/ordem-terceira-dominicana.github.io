@@ -27,6 +27,7 @@ function removeSantaCatarina(markdown) {
 }
 
 // Nova função principal para renderizar dependendo do estado
+// Substitui a função updateOffice() antiga no teu app.js por esta:
 async function updateOffice() {
   try {
     document.getElementById("office").innerHTML = "<p>A carregar...</p>";
@@ -59,20 +60,28 @@ async function updateOffice() {
       }
     }
 
+    // --- CORREÇÃO DO AGRUPAMENTO POR MODO ---
     let filesToLoad = [];
     
-    if (hour.includes(Hour.MATINS) || hour.includes(Hour.LAUDS)) {
-      filesToLoad = ["matins", "lauds"];
-    } else if (
-      hour.includes(Hour.PRIME) ||
-      hour.includes(Hour.TERCE) ||
-      hour.includes(Hour.SEXT) ||
-      hour.includes(Hour.NONE)
-    ) {
-      filesToLoad = ["prime", "terce", "sext", "none"];
+    if (activeMode === "secular") {
+      // No modo Secular, mantém-se o agrupamento tradicional do site
+      if (hour.includes(Hour.MATINS) || hour.includes(Hour.LAUDS)) {
+        filesToLoad = ["matins", "lauds"];
+      } else if (
+        hour.includes(Hour.PRIME) ||
+        hour.includes(Hour.TERCE) ||
+        hour.includes(Hour.SEXT) ||
+        hour.includes(Hour.NONE)
+      ) {
+        filesToLoad = ["prime", "terce", "sext", "none"];
+      } else {
+        filesToLoad = ["vespers", "compline"];
+      }
     } else {
-      filesToLoad = ["vespers", "compline"];
+      // Nos modos Monástico e Livre, carrega APENAS a hora exata do relógio ou da seleção
+      filesToLoad = hour; 
     }
+    // ----------------------------------------
     
     let markdown = "";
     
@@ -80,6 +89,7 @@ async function updateOffice() {
       markdown += await loadOffice(h, seasonToUse) + "\n\n";
     }
 
+    // Comemorações (apenas se a hora atual/selecionada for Laudes ou Vésperas)
     if (hour.includes(Hour.LAUDS) || hour.includes(Hour.VESPERS)) {
       const commemorations = await loadOffice("common", "commemorations");
       markdown += commemorations + "\n\n";

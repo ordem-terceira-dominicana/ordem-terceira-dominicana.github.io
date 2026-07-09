@@ -1,5 +1,3 @@
-import { marked } from "https://cdn.jsdelivr.net/npm/marked/+esm";
-
 /**
  * Renderiza um ficheiro Markdown do Pequeno Ofício.
  *

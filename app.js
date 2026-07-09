@@ -97,7 +97,7 @@ async function updateOffice() {
 
     markdown = intro + opening_prayer + "\n\n" + markdown;
     
-    markdown = markdown.replaceAll(
+    markdown = markdown.replace(
       /{{\s*include\s*:\s*response\s*}}/g,
       office.alleluia
         ? "{{include:common/alleluia}}"

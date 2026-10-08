@@ -6,67 +6,126 @@
 
 ### **Abertura**
 
-**V.** Ave Maria, cheia de graça, o Senhor é convosco. **R.** Bendita sois vós entre as mulheres, e bendito é o fruto do vosso ventre, Jesus.
+**V.** Ave Maria, cheia de graça, o Senhor é convosco. **R.** Bendita sois Vós entre as mulheres, e bendito é o fruto do vosso ventre, Jesus.
+
+**V.** Convertei-nos, ó Deus, Salvador nosso. **R.** E, de nós, afastai a vossa cólera.
 
 **V.** Deus, vinde em meu auxílio. **R.** Senhor, apressai-vos em socorrer‑me.
 
 **V.** Glória ao Pai, e ao Filho, e ao Espírito Santo. **R.** Assim como era no princípio, agora e sempre e por todos os séculos dos séculos. Amém. {{include:response}}
 
-### **Salmo 131 — Humildade diante de Deus**
+### **Salmo 131 — As promessas feitas a David**
 
-Senhor, o meu coração não é soberbo, nem os meus olhos altivos.
+Senhor, lembrai-vos de David \* e de toda a sua mansidão.
 
-Não ando atrás de grandezas nem de coisas superiores a mim.
+Lembrai-vos de que fez este juramento ao Senhor, \* este voto ao Deus de Jacob:
 
-Antes, mantive a minha alma em paz e silêncio; como criança desmamada ao colo da mãe, assim está a minha alma.
+Não entrarei na minha casa, \* não subirei para o meu leito;
 
-Espere Israel no Senhor desde agora e para sempre.
+Não deixarei dormir meus olhos, \* nem minhas pálpebras dormitarem;
 
-Glória ao Pai…
+Nem as fontes da minha cabeça repousarem, até que encontre um lugar para o Senhor, \* um tabernáculo para o Deus de Jacob.
+
+A Arca, nós ouvíramos dizer que estava em Éfrata, \* e fomo-la encontrar nos campos da floresta.
+
+Entraremos no seu tabernáculo; \* adorá-lo-emos no local onde estiveram os seus pés.
+
+Erguei-vos, Senhor, afim de entrardes no vosso repouso, \* Vós e a arca da vossa santidade.
+
+Revistam-se de justiça os vossos sacerdotes, \* exultem de gozo os vossos santos.
+
+Por amor de David, vosso servo, \* não repilais a face do vosso Cristo.
+
+A verdade jurou-a o Senhor a David e cumprirá a promessa: \* no teu trono estabelecerei o fruto do teu ventre.
+
+Se teus filhos guardarem a minha aliança \* e os preceitos que Eu lhes ensinarei:
+
+Também para todo o sempre, os filhos deles \* se sentarão no seu trono.
+
+Porque Sião a escolheu o Senhor, \* escolheu-a para sua morada.
+
+É nela, para sempre, o lugar do meu repouso: \* nela habitarei, por isso que a escolhi.
+
+Abençoarei copiosamente a sua viúva: \* os seus pobres saciarei de pão.
+
+Revestirei os seus sacerdotes de salvação, \* arrebatar-se-ão de júbilo os seus santos.
+
+Nela farei surgir o poder de David; \* preparei uma lâmpada para o meu Cristo;
+
+Os seus inimigos cobrirei de confusão; \* mas florirá nele a minha santidade.
+
+Glória ao Pai, etc.
 
 ### **Salmo 132 — Amor fraterno**
 
-Oh, quão bom e quão suave é que os irmãos vivam em união!
+Oh! Quão bom e agradável \* habitarem os irmãos conjuntamente!
 
-É como o óleo precioso sobre a cabeça, que desce pela barba, a barba de Aarão, e chega à orla das suas vestes.
+É tal qual o perfume espargido sobre as cabeças, \* e que desce pela barba, a barba de Aarão;
 
-É como o orvalho do Hermon, que desce sobre os montes de Sião.
+Que desce até à fimbria do seu vestido, \* qual o orvalho do Hermon, que desce sobre a montanha de Sião.
 
-Porque ali o Senhor ordenou a bênção e a vida para sempre.
+É ali que o Senhor enviou a sua bênção, \* e a vida para sempre.
 
-Glória ao Pai…
+Glória ao Pai, etc.
 
 ### **Salmo 133 — Louvor noturno**
 
-Eis agora, bendizei o Senhor, vós todos, servos do Senhor, que assistis na casa do Senhor durante as horas da noite.
+Bendizei pois, agora ao Senhor, \* vós todos os servos do Senhor;
 
-Levantai as mãos para o santuário e bendizei o Senhor.
+Os que permaneceis na casa do Senhor, \* nos átrios da casa do nosso Deus;
 
-O Senhor, que fez o céu e a terra, vos abençoe desde Sião.
+De noite, levantai as vossas mãos para o Santuário \* e bendizei ao Senhor.
 
-Glória ao Pai…
+Que o Senhor te abençôe de Sião, \* Ele que fez o Céu e a terra.
+
+Glória ao Pai, etc.
 
 ### **Antífona**
 
-**Ant.** Depois do parto permaneceste Virgem sem mancha; Mãe de Deus, intercede por nós.
+**Ant.** No mundo, nenhuma mulher nasceu semelhante a vós, Virgem Maria, que floresceis como a rosa e espalhais o odor dos lírios. Rogai por nós, santa Mãe de Deus.
 
 ### **Pequeno Capítulo — Eclesiástico 24**
 
-Eu sou a Mãe do amor, do temor, do conhecimento e da santa esperança.
+Sou a Mãe do belo Amor, e do temor e da ciência e da santa esperança.
 
-**R.** Graças a Deus.
+**R.** Demos graças a Deus.
 
 ### **Versículos**
 
-**V.** Rogai por nós, ó Santa Mãe de Deus. **R.** Para que sejamos dignos das promessas de Cristo.
+**V.** Intercedei por nós, santa Virgem das virgens, \* Maria, Mãe de Deus.
 
-**V.** Senhor, ouvi a minha oração. **R.** E chegue a Vós o meu clamor.
+**R.** Intercedei por nós, santa Virgem das virgens, \* Maria, Mãe de Deus.
 
-### **Oração**
+**V.** Para que sejamos dignos das promessas de Cristo.
 
-Concedei, Senhor, aos Vossos servos, que, celebrando a memória da Santa Mãe de Deus, sejam protegidos pela sua intercessão e levantados das suas faltas. Por Cristo, nosso Senhor.
+**R.** Maria, Mãe de Deus.
+
+**V.** Glória ao Pai, ao Filho e ao Espírito Santo.
+
+**R.** Intercedei por nós, santa Virgem das virgens, \* Maria, Mãe de Deus.
+
+### **Hino**
+
+Ó Virgem singular,  
+Mais do que todas amável,  
+Alcançai-nos o perdão,  
+Fazei-nos castos e mansos.
+
+Alcançai-nos vida pura,  
+Aplanai-nos o caminho,  
+Para que ao vermos Jesus,  
+Eterna glória gozemos.
+
+Louvores ao Padre Eterno,  
+A Cristo, louvor supremo,  
+O mesmo ao Espírito Santo,  
+Igual honra a todos Três.  
 
 **R.** Amém.
+
+**V.** Depois do parto, ó Virgem, inviolada permanecestes.
+
+**R.** Mãe de Deus, intercedei por nós.
 
 ### **Conclusão**
 
@@ -76,34 +135,61 @@ Concedei, Senhor, aos Vossos servos, que, celebrando a memória da Santa Mãe de
 
 **V.** Ave Maria, cheia de graça, o Senhor é convosco. **R.** Bendita sois vós entre as mulheres, e bendito é o fruto do vosso ventre, Jesus.
 
-### **Salve Rainha**
+### Cântico de S. Simeão
 
-Salve, Rainha, Mãe de misericórdia, vida, doçura e esperança nossa, salve. A vós bradamos, os degredados filhos de Eva; a vós suspiramos, gemendo e chorando neste vale de lágrimas.
+Agora, Senhor, despedi o vosso servo em paz \* segundo a vossa promessa.
 
-Eia, pois, advogada nossa, esses vossos olhos misericordiosos a nós volvei; e depois deste desterro mostrai‑nos Jesus, bendito fruto do vosso ventre.
+Porque os meus olhos viram \* o vosso Salvador;
 
-Ó clemente, ó piedosa, ó doce Virgem Maria.
+O qual preparastes \* para ir ante a face de todos os povos;
 
-### **Oração após a Salve Rainha**
+Luz para iluminar as nações \* e glória de Israel, vosso povo.
 
-Concedei, suplicamos, Senhor Deus, que nós, Vossos servos, gozemos contínua saúde de alma e corpo; e que, pela intercessão da Bem‑aventurada Maria, sempre Virgem, sejamos libertos das tristezas presentes e alcancemos a eterna alegria. Por Cristo, nosso Senhor.
+Glória ao Pai, etc.
+
+### **Antífona**
+
+Sob a vossa protecção nos refugiamos, santa Mãe de Deus; não desprezeis as nossas súplicas, em nossas necessidades, e livrai-nos sempre de todos os perigos, Virgem bendita.
+
+**V.** Senhor, ouvi a minha oração.
+
+**R.** E o meu clamor chegue até Vós.
+
+### **Oração**
+
+Deus de Misericórdia, trazei socorro à nossa fragilidade; afim de, os que honramos a memória da santa Mãe de Deus, sermos, por sua intercessão, libertos dos nossos pecados.
+
+Pelo mesmo Jesus Cristo, Vosso Filho e Senhor nosso, que vive e reina convosco na unidade do Espírito Santo, Deus, por todos os séculos dos séculos.
+
+**R.** Assim seja.
+
+**V.** Senhor, ouvi a minha oração.
+
+**R.** E o meu clamor chegue até Vós.
+
+**V.** Bendigamos ao Senhor.
+
+**R.** Demos graças a Deus.
+
+**V.** Avé Maria, cheia de graça, o Senhor é convosco.
+
+**R.** Bendita sois Vós entre as mulheres e bendito é o fruto do vosso ventre, Jesus.
+
+### **Oração para depois do Ofício**
+*Esta Oração diz-se de joelhos. Quem preside dá a primeira palavra e o coro continua.*
+
+Honra, glória e louvor sempiternos recebam de toda a criatura a indivisa Trindade Sacrossanta, a Humanidade de Nosso Senhor Jesus Cristo crucificado, a fecunda integridade da beatíssima e gloriosíssima sempre Virgem Maria e todos os santos e, bem assim, nos sejam perdoados todos os pecados, pelos séculos sem fim.
 
 **R.** Amém.
 
-### **O Lumen (Hino a São Domingos)**
+### **Versículos e conclusão**
 
-Luz da Igreja, doutor da verdade, rosa da paciência, marfim da castidade, livremente derramaste a água da sabedoria.
+**V.** Bem-aventuradas as entranhas da Virgem Maria, que trouxeram o Filho do Pai Eterno.
 
-Pregador da graça, une‑nos aos bem‑aventurados.
+**R.** E bem-aventurados os seios que ao Cristo Senhor amamentaram.
 
-**R.** Rogai por nós, bem‑aventurado Pai Domingos.
+*O Pai Nosso e Ave Maria dizem-se em silêncio.*
 
-**Oração:** Concedei, ó Deus omnipotente, que nós, oprimidos pelo peso dos nossos pecados, sejamos aliviados pela intercessão do Vosso confessor e Pai, o bem‑aventurado Domingos. Por Cristo, nosso Senhor.
+Pai Nosso, etc.
 
-**R.** Amém.
-
-### **Oração de São Boaventura (Conclusão do Ofício)**
-
-À Santíssima e indivisa Trindade, à humanidade do nosso Senhor crucificado Jesus Cristo, à frutuosa virgindade da Bem‑aventurada e gloriosa Virgem Maria, e a toda a companhia dos santos no céu, sejam louvor, honra, poder e glória de toda criatura sobre a terra; e a nós, pecadores, seja dada plena remissão de todos os nossos pecados, pelos séculos dos séculos.
-
-**R.** Amém.
+Avé Maria, etc.

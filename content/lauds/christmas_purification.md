@@ -10,103 +10,105 @@ Nas vigílias cristãs primitivas, as meditações e leituras que duravam desde 
 
 **V.** Glória ao Pai, e ao Filho, e ao Espírito Santo. **R.** Assim como era no princípio, agora e sempre e por todos os séculos dos séculos. Amém. {{include:response}}
 
-### Salmo 92
+### Salmo 92 - Glória e firmeza do Reino de Deus
 
-_Glória e firmeza do Reino de Deus_
+O Senhor reinou, de glória se revestiu; * o Senhor se revestiu e se cingiu de fortaleza.
 
-O Senhor reina, revestiu‑Se de majestade; o Senhor revestiu‑Se de força e cingiu‑Se com poder.
+Ele firmou o globo terrestre; * o qual não será abalado.
 
-Firmou o mundo, que não vacila. O Vosso trono está firme desde sempre; Vós sois desde a eternidade.
+O vosso trono, ó Deus, desde há muito se encontra estabelecido: * Vós sois desde toda a eternidade.
 
-Levantaram os rios, Senhor, levantaram os rios a sua voz, levantaram os rios as suas ondas.
+Ergueram os rios, Senhor, * ergueram os rios a sua voz.
 
-Mais poderoso que o fragor das grandes águas, mais poderoso que as ondas do mar, poderoso é o Senhor nas alturas.
+Os rios ergueram as suas ondas, * mais furiosas que a voz das grandes águas.
 
-Os Vossos testemunhos são firmes em grande medida; a santidade convém à Vossa casa, Senhor, para todo o sempre.
+Maravilhosas as vagas do mar, * mais maravilhoso o Senhor, nas alturas dos céus.
 
-Glória ao Pai…
+O vosso testemunho é inteiramente digno de fé: * a santidade, Senhor, convém à nossa casa por todo o decorrer dos séculos.
 
-### Salmo 99
+Glória ao Pai, etc.
 
-_Convite universal ao louvor_
+### Salmo 99 - Convite universal ao louvor
 
-Aclamai o Senhor, todas as terras; servi o Senhor com alegria.
+Terra inteira aclamai ao Senhor: * Servi ao Senhor com alegria.
 
-Vinde à Sua presença com cânticos de júbilo.
+Vinde à sua presença * exultando.
 
-Sabei que o Senhor é Deus; Ele nos fez e a Ele pertencemos, somos o Seu povo e ovelhas do Seu rebanho.
+Ficai sabendo: é o Senhor quem é Deus; * foi Ele que nos criou e não nós mesmos.
 
-Entrai pelas Suas portas com ações de graças, nos Seus átrios com hinos; louvai‑O e bendizei o Seu Nome.
+Nós somos o seu povo e as ovelhas do seu pasto; passai as suas portas com louvores * e com hinos os seus átrios; glorificai-o.
 
-Porque o Senhor é bom, a Sua misericórdia é eterna e a Sua fidelidade de geração em geração.
+Louvai o seu nome porque o Senhor é suave e eterna a sua misericórdia; * e de geração em geração permanece a sua verdade.
 
-Glória ao Pai…
+Glória ao Pai, etc.
 
-### Salmo 62
+### Salmo 62 - Desejo de Deus ao amanhecer
 
-_Desejo de Deus ao amanhecer_
+Deus, meu Deus, * por amor de vós, eu velo desde a aurora.
 
-Ó Deus, Vós sois o meu Deus; desde a aurora Vos procuro.
+A minha alma tem sede de Vós, * e também quanto está de Vós sequiosa a minha carne!
 
-A minha alma tem sede de Vós, a minha carne desfalece por Vós numa terra árida, seca, sem água.
+Nesta terra deserta, sem rumo e sem água, eu me apresento a Vós no Santuário * afim de contemplar o Vosso poder e a Vossa glória.
 
-Assim Vos contemplo no santuário, para ver o Vosso poder e a Vossa glória.
+Porque a vossa misericórdia é melhor que todas as vidas: * os meus lábios vos louvarão.
 
-Porque a Vossa misericórdia é melhor do que a vida, os meus lábios Vos louvarão.
+Assim vos bemdirei durante a minha vida: * e, em vosso nome, levantarei as minhas mãos.
 
-Assim Vos bendirei enquanto viver, e em Vosso Nome levantarei as minhas mãos.
+Que a minha alma fique como farta e nutrida: * e a minha boca vos louvará com lábios de regosijo.
 
-A minha alma ficará saciada como de gordura e de manjares, e a minha boca Vos louvará com lábios jubilosos.
+Se no meu leito me lembrar de Vós, em Vós meditarei até pela manhã; * porque fostes o meu defensor.
 
-Quando me lembro de Vós no meu leito, medito em Vós nas vigílias da noite, porque Vós sois o meu auxílio; à sombra das Vossas asas exulto.
+Consolar-me-ei no abrigo das vossas asas; a minha alma, prosseguindo-vos, se apegou a Vós; * a vossa dextra me susteve.
 
-A minha alma se apega a Vós; a Vossa mão direita me sustém.
+Quanto a eles, debalde tentaram arrancar-me a vida. Entrarão nas profundidades da terra; * serão entregues ao poder da espada, tornar-se-ão presa das raposas.
 
-Glória ao Pai…
+Mas em Deus se alegrará o rei; * louvar-se-ão todos os que em ele confiam; porque se fechou a boca dos que proferem iniquidades.
+
+Glória ao Pai, etc.
 
 ### Cântico dos Três Jovens (Daniel 3, 56–88)
 
 _(Beneditus: “Bendizei o Senhor”)_
 
-Ó todas as obras do Senhor, bendizei o Senhor; louvai‑O e exaltai‑O para sempre.
+Obras do Senhor, bemdizei todas ao Senhor: * louvai-o e sobreexaltai-o pelos séculos fora.
 
-Anjos do Senhor, bendizei o Senhor; céus, bendizei o Senhor.
+Anjos do Senhor, bemdizei ao Senhor: * Céus, bemdizei ao Senhor.
 
-Águas que estais sobre os céus, bendizei o Senhor; todas as potências do Senhor, bendizei o Senhor.
+Todas vós, águas, que estais sobre os céus, bemdizei ao Senhor: * poderes do Senhor, bemdizei todos ao Senhor.
 
-Sol e lua, bendizei o Senhor; estrelas do céu, bendizei o Senhor.
+Sol e lua, bemdizei ao Senhor: * estrelas do céu, bemdizei ao Senhor.
 
-Chuvas e orvalhos, bendizei o Senhor; ventos de Deus, bendizei o Senhor.
+Chuvas e orvalhos, bem-dizei ao Senhor: * ventos de Deus, bemdizei ao Senhor.
 
-Fogo e calor, bendizei o Senhor; frio e calor, bendizei o Senhor.
+Fogo e calor do fogo bemdizei ao Senhor: * frio e calor bemdizei ao Senhor.
 
-Orvalhos e geadas, bendizei o Senhor; gelos e neves, bendizei o Senhor.
+Orvalhos e geadas bemdizei ao Senhor: * gelos e frios, bemdizei ao Senhor.
 
-Noites e dias, bendizei o Senhor; luz e trevas, bendizei o Senhor.
+Gelos e neves, bemdizei ao Senhor: * noites e dias, bemdizei ao Senhor.
 
-Relâmpagos e nuvens, bendizei o Senhor.
+Luz e trevas bemdizei ao Senhor: * relâmpagos e nuvens, bemdizei ao Senhor.
 
-Que a terra bendiga o Senhor; louve‑O e exalte‑O para sempre.
+Que a terra bemdiga ao Senhor: * que ela o louve e o sobreexalte por todos os séculos.
 
-Montes e colinas, bendizei o Senhor; todas as coisas que germinam na terra, bendizei o Senhor.
+Montanhas e outeiros, bemdizei ao Senhor: * plantas que brotais da terra, bemdizei ao Senhor.
 
-Fontes, bendizei o Senhor; mares e rios, bendizei o Senhor.
+Fontes, bemdizei ao Senhor: * mares e rios bemdizei ao Senhor.
 
-Peixes e tudo o que se move nas águas, bendizei o Senhor; aves do céu, bendizei o Senhor.
+Grandes peixes e tudo o que se move nas águas, bemdizei ao Senhor: * aves todas do céu, bemdizei ao Senhor.
 
-Animais e gado, bendizei o Senhor; filhos dos homens, bendizei o Senhor.
+Todos vós, animais selvagens e domésticos, bemdizei ao Senhor: * filhos dos homens, bemdizei ao Senhor.
 
-Israel, bendizei o Senhor; louvai‑O e exaltai‑O para sempre.
+Que Israel bemdiga ao Senhor: * louve-o e sobreexalte-o por todos os séculos.
 
-Sacerdotes do Senhor, bendizei o Senhor; servos do Senhor, bendizei o Senhor.
+Sacerdotes do Senhor, bemdizei ao Senhor: * servos do Senhor, bemdizei ao Senhor.
 
-Espíritos e almas dos justos, bendizei o Senhor; santos e humildes de coração, bendizei o Senhor.
+Espíritos e almas dos justos, bemdizei ao Senhor: * santos e humildes de coração, bemdizei ao Senhor.
 
-Ananias, Azarias e Misael, bendizei o Senhor; louvai‑O e exaltai‑O para sempre.
+Ananias, Azarias, Mizael, bemdizei ao Senhor: * louvai-o e sobreexaltai-o por todos os séculos.
 
-_(Todos se inclinam)_ Bendigamos o Pai e o Filho com o Espírito Santo; louvemo‑O e exaltemo‑O para sempre.
+_(Todos se inclinam)_ Bendigamos ao Pai e ao Filho com o Espírito Santo: * louvemo-los e sobreexaltemo-los pelos séculos dos séculos.
 
-Bendito sois, Senhor, no firmamento do céu, digno de louvor e de glória para sempre.
+Bendito sois, Senhor, no firmamento do céu: * e digno de ser louvado e glorificado e sobreexaltado pelos séculos fora.
 
 _(Não se diz Glória ao Pai aqui.)_
 
@@ -114,85 +116,89 @@ _(Não se diz Glória ao Pai aqui.)_
 
 _Toda a criação louva o Criador_
 
-Louvai o Senhor desde os céus, louvai‑O nas alturas.
+Do alto dos céus, louvai ao Senhor; * louvai-o nas alturas.
 
-Louvai‑O, todos os Seus anjos; louvai‑O, todas as Suas hostes.
+Louvai-o todos vós, seus anjos: * virtudes todas, louvai-o.
 
-Louvai‑O, sol e lua; louvai‑O, todas as estrelas luzentes.
+Louvai-o sol e lua; * louvai-o estrelas todas e luz.
 
-Louvai‑O, céus dos céus, e águas que estais acima dos céus.
+Louvai-o céu dos céus: * e que todas as águas, acima dos céus, louvem o nome do Senhor.
 
-Louvem o Nome do Senhor, porque Ele mandou e foram criados.
+Porque ele falou e fizeram-se estas coisas; * ele ordenou e elas foram criadas.
 
-Estabeleceu‑os para sempre, deu uma lei que não passará.
+Ele as estabeleceu, para todo o sempre, pelos séculos dos séculos; * prescreveu-lhes uma lei que não será violada.
 
-Louvai o Senhor desde a terra, monstros marinhos e todos os abismos;
+Louvai ao Senhor os de cima da terra: * dragões e vós, ó abismos.
 
-Fogo e granizo, neve e neblina, vento tempestuoso que cumpre a Sua palavra;
+Fogo, granizo, neve, geada, furacões: * que executais a sua palavra;
 
-Montes e colinas, árvores frutíferas e todos os cedros;
+Montanhas com todas as colinas, * árvores frutíferas e todos os cedros;
 
-Animais e gado, répteis e aves voadoras;
+Animais selvagens e todos os domésticos, * serpentes e aves de voo;
 
-Reis da terra e todos os povos, príncipes e todos os juízes da terra;
+Reis da terra e todos os povos: * príncipes e todos os juízes;
 
-Jovens e donzelas, velhos e crianças, louvem o Nome do Senhor, porque só o Seu Nome é excelso.
+Mancebos e donzelas, velhos e crianças, louvem o nome do Senhor: * porque sòmente o nome de Ele é grande.
 
-A Sua glória está acima da terra e do céu. Ele exalta o poder do Seu povo, louvor de todos os Seus santos, dos filhos de Israel, povo que Lhe é próximo.
+O seu louvor eleva-se acima do céu e da terra: * e levantou o poder do seu povo.
 
-Glória ao Pai…
+Que Ele seja louvado por todos os seus santos: * pelos filhos de Israel, o povo que se aproxima d'Ele.
+
+Glória ao Pai, etc.
 
 ### Antífona
 
-**Ant.** Depois do parto permaneceste Virgem sem mancha; Mãe de Deus, intercede por nós.
+**Ant.** Depois do parto, ó Virgem, permanecestes intacta. Santa Mãe de Deus, intercedei por nós.
 
 ### Pequeno Capítulo — Eclesiástico 24
 
-Como videira, exalei perfume de suavidade, e as minhas flores são frutos de honra e riqueza.
+Suave odor espalhei, qual uma vinha e as minhas flores deram frutos de honra e de pureza. **℟.** Demos graças a Deus.
 
-**R.** Graças a Deus.
+**R.** Demo graças a Deus.
 
 ### Hino
 
-Ó Rainha gloriosa, sentada na luz, sublime acima da altura estrelada, nos teus braços repousou o teu Criador, um Menino ao teu peito sagrado.
+Ó gloriosa Senhora, mais alta que as estrelas, providencialmente amamentastes ao vosso sagrado seio, Aquele que vos criou!
 
-Pelo doce Fruto do teu ventre mudaste o destino da infeliz Eva; por ti se abre às almas contritas a porta da sua pátria celeste.
+Aquilo de que a triste Eva nos privou, Vós o restituís por vosso Augusto Filho; fizeram-vos Porta do Céu, para que nós, dignos de lástima, nele entremos.
 
-Tu és o portal do grande Rei, ornado de pérolas e pedras vivas; vinde, povos resgatados, cantar a vida divina que foi dada por ela.
+Sois a porta do Rei Altíssimo, a porta refulgente da luz. A vida, obtemo-la duma Virgem, aplaudi, povos libertos!
 
-Ó Maria, Mãe de toda a graça, Mãe de misericórdia para o nosso povo, protege‑nos agora do poder de Satanás e acolhe‑nos na hora da morte.
+Ó Maria, Mãe de graça, Mãe de misericórdia, livrai-nos do inimigo e, na hora da morte recebei-nos.
 
-Glória seja a Ti, ó Senhor, Filho da Virgem, adorado por todos; e igual louvor eternamente receba o Pai e o Paráclito. Amém.
+A Vós, Senhor, que nasceste da Virgem, e também ao Padre Eterno e Espírito Santo, se tribute eterna glória. Assim seja.
 
 ### Versículo
 
-**V.** Deus escolheu‑a e preferiu‑a. **R.** E fá‑la habitar no Seu tabernáculo.
+**V.** Deus elegeu-a e elegeu-a entre todas. **R.** E fê-la habitar no seu tabernáculo.
 
 ### Cântico de Zacarias — _Benedictus_ (Lc 1, 68–79)
 
-Bendito seja o Senhor, Deus de Israel, porque visitou e redimiu o Seu povo,
+Bendito o Senhor de Israel, * porque visitou e remiu o seu povo.
 
-e suscitou para nós um poderoso Salvador na casa de David, Seu servo,
+E na casa de David, seu servo, * nos suscitou um Salvador poderoso.
 
-como prometera pela boca dos Seus santos profetas, desde os tempos antigos,
+Conforme havia prometido pela boca de seus santos profetas, * de tempos já passados.
 
-para nos libertar dos nossos inimigos e da mão de todos os que nos odeiam,
+Que nos libertaria dos nossos inimigos * e das mãos de todos os que nos odeiam;
 
-para realizar a misericórdia prometida a nossos pais e lembrar‑Se da Sua santa aliança,
+Para exercer a sua misericórdia em favor dos nossos pais * e se lembrar da sua santa aliança;
 
-do juramento que fez a Abraão, nosso pai, de nos conceder que, libertos da mão dos inimigos,
+Segundo o juramento que fizera a Abraão, nosso pai, * de que nos dispensaria esta graça;
 
-O sirvamos sem temor, em santidade e justiça, na Sua presença, todos os dias da nossa vida.
+Para que, resgatados das mãos dos nossos inimigos, * nós o sirvamos sem temor.
 
-E tu, menino, serás chamado profeta do Altíssimo, porque irás à frente do Senhor a preparar os Seus caminhos,
+Caminhando na sua presença em santidade e em justiça, * durante a nossa vida inteira.
 
-para dar ao Seu povo o conhecimento da salvação pela remissão dos seus pecados,
+E a ti, menino, chamar-te-ão o Profeta do Altíssimo; * porque marcharás ante a face do Senhor, afim de preparar os seus caminhos;
 
-graças à entranhável misericórdia do nosso Deus, pela qual nos visitará o Sol nascente das alturas,
+Afim de ser ministrado ao povo o conhecimento da salvação, * para a remissão dos pecados.
 
-para iluminar os que jazem nas trevas e na sombra da morte, e dirigir os nossos passos no caminho da paz.
+Pelas entranhas da misericórdia do nosso Deus: * graças às quais nos visitou do alto, este Sol do Oriente,
 
-Glória ao Pai…
+Para iluminar os que se assentam nas trevas e na sombra da morte: * e assim dirigir os nossos passos na senda da paz.
+
+Glória ao Pai, etc.
 
 ### Antífonas e Orações segundo o Tempo Litúrgico
 
@@ -200,8 +206,8 @@ Depois do _Benedictus_, seguem‑se as antífonas e orações próprias:
 
 **Ant.** Uma mulher em trabalho de parto deu à luz um Rei cujo nome é eterno; e, possuindo a alegria de mãe com a honra de virgem, igual não apareceu antes nem depois.
 
-**V:** Senhor, ouvi a minha oração. **R:** E chegue até Vós o meu clamor.
+**V:** Senhor, ouvi a minha oração. **R:** E o meu clamor chegue até Vós.
 
-**Oremos** Ó Deus, que pela fecunda virgindade da bem‑aventurada Maria concedestes à humanidade o prémio da salvação eterna, concedei, Vos suplicamos, que sintamos a intercessão que ela faz por nós, por quem fomos tornados dignos do Autor da Vida, Cristo nosso Senhor.
+**Oremos** Ó Deus, que ao género humano concedestes o prémio da salvação eterna pela virgindade fecunda de Maria, dignai-vos, nós vos rogamos, que, em nosso favor experimentemos a intercessão d'Aquela, pela qual merecemos receber o Autor da vida, Cristo, Nosso Senhor.
 
 **R:** Ámen.

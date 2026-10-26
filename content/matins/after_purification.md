@@ -2,6 +2,8 @@
 
 *Sendo duas ou mais pessoas a rezar o Officio, a que preside, diz as palavras precedidas do sinal **V**, e as outras respondem com as palavras precedidas do sinal **R**. Isto observa-se na reza de todo o Officio.*
 
+*Sempre que se diz o «Glória ao Pai, ao Filho e ao Espírito Santo», inclina-se a cabeça, e, sendo a reza feita em coro, faz-se uma inclinação com a cabeça e o tronco.*
+
 A primeira Hora do Ofício chama‑se **Matinas**, ou Ofício da Manhã, porque parece ser a continuação das Vigílias ou Guardas Noturnas dos primeiros cristãos, que costumavam passar o tempo desde a meia‑noite até ao amanhecer em orações e meditações, como preparação para as grandes festas. Uma intenção apropriada para a recitação das Matinas é a preparação para a vinda do Senhor, seja na Sagrada Comunhão do dia seguinte, seja no Seu juízo na hora da morte.
 
 ### **Abertura do Ofício**
@@ -16,220 +18,271 @@ A primeira Hora do Ofício chama‑se **Matinas**, ou Ofício da Manhã, porque 
 
 ### **Invitatório**
 
-**Nosso Rei, Filho de uma Virgem:** _**Vinde, adoremos**_**.**
+**Vinde e adoremos * o Rei, Filho da Virgem.**
 
 (No Tempo Pascal acrescenta‑se _Aleluia_ no fim das antífonas, versículos e respostas.)
 
 ### **Salmo 94**
-*(Convite à adoração)*
+*Quando a reza é feita em coro, ajoelham todos enquanto dizem: Vinde, adoremos, prostremo-nos diante de Deus.*
 
-Vinde, louvemos o Senhor com alegria; cantemos jubilosamente a Deus, nosso Salvador; aproximemo‑nos da Sua presença com ações de graças, e em salmos façamos alegria diante d’Ele.
+**V.** Vinde, regozijemo-nos no Senhor, cantemos jubilosos a Deus, Salvador nosso; corramos ao seu encontro, louvando-o, e cantemos salmos à sua glória.
 
-**R.** Nosso Rei, Filho de uma Virgem: _Vinde, adoremos_.
+**R.** Vinde e adoremos * o Rei, Filho da Virgem.
 
-**V.** Porque o Senhor é um grande Deus, e um grande Rei acima de todos os deuses; não rejeita o Seu povo, pois nas Suas mãos estão todos os confins da terra, e Ele contempla as alturas dos montes.
+**V.**Porque o Senhor é o Deus poderoso e o grande Rei acima de todos os deuses e não repelirá o seu povo; nas suas mãos estão todos os confins da terra e pertencem-lhe os píncaros das montanhas.
 
-**R.** _Vinde, adoremos._
+**R.** Vinde e adoremos.
 
-**V.** O mar é Seu, pois Ele o fez; e as Suas mãos formaram a terra seca. Vinde, adoremos e prostremo‑nos diante de Deus; choremos diante do Senhor que nos criou; porque Ele é o nosso Deus, nós somos o Seu povo e as ovelhas do Seu rebanho.
+**V.** E pertencem-lhe o mar (Ele próprio o fez) e os continentes, por suas mãos formados.  *Vinde, adoremos, prostremo-nos diante de Deus e choremos diante do Senhor que nos criou, porque é o Senhor, nosso* Deus, e nós o seu povo, as ovelhas do seu rebanho.
 
-**R.** Nosso Rei, Filho de uma Virgem: _Vinde, adoremos._
+**R.** Vinde e adoremos * o Rei, Filho da Virgem.
 
-**V.** Hoje, se ouvirdes a Sua voz, não endureçais os vossos corações, como na provocação, no dia da tentação no deserto, onde os vossos pais Me tentaram, Me puseram à prova e viram as Minhas obras.
+**V.** Se ouvirdes hoje a sua voz, não queirais endurecer os vossos corações qual, no dia da tentação do deserto em que, provocando a minha cólera, os vossos pais me tentaram, me submeteram à prova e viram as minhas obras.
 
-**R.** _Vinde, adoremos._
+**R.** Vinde e adoremos.
 
-**V.** Quarenta anos estive próximo dessa geração e disse: “Eles erram sempre no coração, e não conheceram os Meus caminhos.” A quem jurei na Minha ira: “Não entrarão no Meu repouso.”
+**V.** Durante quarenta anos assisti a esta geração e disse: «anda o seu coração sempre transviado». Na verdade não conhecem os meus caminhos; por isso lhes jurei na minha ira: não entrarão no meu repouso.
 
-**R.** Nosso Rei, Filho de uma Virgem: _Vinde, adoremos._
+**R.** Vinde e adoremos * o Rei, Filho da Virgem.
 
-**V.** Glória ao Pai, e ao Filho, e ao Espírito Santo. Assim como era no princípio, agora e sempre e por todos os séculos dos séculos. Amém.
+**V.** Glória ao Pai, ao Filho e ao Espírito Santo, * assim como era no princípio seja agora e sempre por todos os séculos dos séculos. Amén.
 
-**R.** _Vinde, adoremos._
+**R.** Vinde e adoremos. Vinde e adoremos * o Rei, Filho da Virgem.
 
 ### **Hino**
 
-Aquele que a terra, o mar e o céu proclamam, O Senhor do triplo universo, Aquele a quem todas as criaturas louvam, No seio de Maria repousa.
+Maria encerra em seu seio Aquele a quem a terra, mar e céus adoram e anunciam, Aquele a quem todo o Universo está sujeito.
 
-O seu seio, sede de toda a graça, É agora a morada do Senhor — Daquele a quem o sol de dia E a lua de noite prestam serviço.
+Por maravilha da celeste graça, trazem as entranhas duma Virgem, Aquele a quem a lua, o sol e todas as criaturas obedecem sem cessar.
 
-Ó feliz Mãe que és, Pois sob o teu coração palpitante Repousa o teu Criador‑Deus, Que formou o mundo que Ele sustém na mão.
+Ó Mãe bendita, que guardais, no vosso seio, o Criador supremo, o Senhor do mundo!
 
-Bendita pela voz do anjo, Sobre ti pairou o Espírito de Deus, E encheu o teu seio, do qual saiu O tão desejado de toda a terra.
+O Anjo do céu vos saúda, o Espírito Santo vos torna fecunda, o Desejado das nações em Vós se gera!
 
-Ó Maria, Mãe de toda a graça, Mãe de misericórdia para o nosso povo, Protege‑nos agora do poder de Satanás E acolhe‑nos na hora da morte.
+Maria, Mãe da graça, Mãe de misericórdia, livrai-nos do inimigo e acolhei-nos na hora da nossa morte.
 
-Glória seja a Ti, ó Senhor, Filho da Virgem, adorado por todos; E igual louvor eternamente receba O Pai e o Paráclito. Amém.
+Glória a Vós, Senhor, Filho da Virgem, glória ao Pai e ao Espírito Santo por todos os séculos dos séculos. Amém.
 
 ### **Salmo 8**
 
-Senhor, nosso Governador, quão admirável é o Vosso Nome em toda a terra!
+Senhor, Senhor nosso, * quão admirável é o vosso nome em toda a terra!
 
-Vós colocastes a Vossa glória acima dos céus. Da boca das crianças e dos lactentes estabelecestes louvor, para confundir o inimigo e o vingador.
+Porque a vossa magnificência * se eleva acima dos céus.
 
-Quando contemplo os Vossos céus, obra dos Vossos dedos, a lua e as estrelas que criastes, que é o homem para que dele Vos lembreis, e o filho do homem para que o visiteis?
+Da boca das crianças e dos recém-nascidos tirastes um louvor perfeito contra os vossos inimigos * para destruirdes o adversário e o vingativo.
 
-Fizestes‑no um pouco inferior aos anjos, coroando‑o de glória e honra; pusestes todas as coisas sob os seus pés: ovelhas, bois, animais do campo, aves do céu, peixes do mar e tudo o que percorre os caminhos das águas.
+Quando contemplo os vossos céus, obra das vossas mãos, * a lua e as estrelas que vós criastes.
 
-Senhor, nosso Governador, quão admirável é o Vosso Nome em toda a terra!
+Que é o homem (exclamo) para Vos lembrardes dele? * ou o filho do homem para o visitardes?
 
-Glória ao Pai, e ao Filho, e ao Espírito Santo…
+Não muito inferior aos anjos o fizestes e o coroastes de glória e honra * e o domínio das vossas criaturas lhe outorgastes.
+
+Submetestes todas as coisas aos seus pés *, todas as ovelhas, todos os bois e mesmo os animais selvagens.
+
+E as aves do céu e os peixes do mar * que sulcando percorrem os oceanos.
+
+Senhor, Senhor nosso, * quão admirável é o vosso nome em toda a terra.
+
+Glória ao Pai, ao Filho e ao Espírito Santo * assim como era no princípio seja agora e sempre por todos os séculos dos séculos. Amén.
 
 ### **Salmo 18**
 
-Os céus proclamam a glória de Deus, e o firmamento anuncia a obra das Suas mãos.
+Os céus narram a glória de Deus * e a obra das suas mãos publica o firmamento.
 
-Dia após dia transmite a mensagem; noite após noite revela conhecimento. Não há fala nem linguagem onde a sua voz não seja ouvida.
+Proclama o dia essa mensagem ao outro dia * e a noite fala dela à outra noite.
 
-A sua linha estende‑se por toda a terra, e as suas palavras até aos confins do mundo.
+Não são palavras nem linguagem * cuja voz não seja ouvida.
 
-No sol colocou Deus a sua tenda; ele sai como esposo do seu aposento, alegrando‑se como gigante para correr o seu caminho.
+O seu som ecoou por toda a terra * as palavras até às extremidades do mundo.
 
-A sua saída é desde um extremo dos céus, e o seu percurso até ao outro extremo; nada se esconde ao seu calor.
+A sua morada firmou-a Deus no sol * que é semelhante a um esposo saindo da câmara nupcial.
 
-A lei do Senhor é perfeita, restaura a alma; o testemunho do Senhor é fiel, dá sabedoria aos simples. Os preceitos do Senhor são retos, alegram o coração; o mandamento do Senhor é puro, ilumina os olhos.
+Este, como gigante, avança impetuoso na carreira; * sai da extremidade do céu.
 
-O temor do Senhor é santo, permanece para sempre; os juízos do Senhor são verdadeiros e justos.
+E no seu curso vai até à outra extremidade *; e não há quem se furte ao seu calor.
 
-Mais desejáveis do que o ouro, mais doces do que o mel e o favo.
+A lei do Senhor é imaculada, ela restaura as almas *; o testemunho do Senhor é fiel e dá sabedoria aos simples.
 
-O Vosso servo é instruído por eles; na sua observância há grande recompensa.
+Os mandamentos do Senhor são rectos, alegram os corações *; derrama luz o preceito do Senhor e ilumina os olhos.
 
-Quem pode discernir as próprias faltas? Purificai‑me das ocultas. Guardai o Vosso servo do pecado alheio; que ele não tenha domínio sobre mim.
+O temor de Deus é santo e permanece eternamente * os juízos do Senhor são verdadeiros, justificam-se por si próprios.
 
-Então serei irrepreensível e inocente da grande transgressão.
+São mais apetecíveis do que o ouro e as pedras preciosíssimas *; mais doces do que o mel, o mel mais superfino.
 
-Que as palavras da minha boca e a meditação do meu coração sejam agradáveis diante de Vós, Senhor, minha força e meu redentor.
+Por isso o vosso servo os guarda *; guardando-os temos grande recompensa.
+
+Quem conhece as suas culpas? purificai-me das que me são ocultas *; preservai o vosso servo da corrupção dos estranhos.
+
+Se eles me não dominarem então serei imaculado * e purificado dum gravíssimo delito.
+
+E então as minhas palavras vos serão aceites, * sempre vos estará presente a meditação da minha alma.
+
+Senhor, socorro meu * e Redentor meu.
+
+Glória ao Pai, etc.
 
 ### **Salmo 23**
 
-Do Senhor é a terra e a sua plenitude, o mundo e os que nele habitam.
+É do Senhor a terra e tudo o que nela existe * é do Senhor o mundo e tudo que nele habita.
 
-Ele a fundou sobre os mares e a estabeleceu sobre os rios.
+Porque ele próprio o fundou sobre os mares * e o firmou sobre os rios.
 
-Quem subirá ao monte do Senhor? Quem permanecerá no Seu lugar santo?
+Quem subirá ao monte do Senhor? * ou quem permanecerá no lugar santo?
 
-Aquele que tem mãos inocentes e coração puro, que não entrega a sua alma à vaidade nem jura enganosamente.
+O de coração inocente e cujas mãos estão limpas; o desprendido de vaidade * e que não fez contra o seu próximo um juramento falso.
 
-Ele receberá bênção do Senhor e misericórdia do Deus seu Salvador.
+Este receberá a bênção do Senhor * e a misericórdia de Deus, seu Salvador.
 
-Esta é a geração dos que O procuram, dos que buscam a face do Deus de Jacob.
+Tal é a raça daqueles que o procuram, * dos que buscam a face do Deus de Jacob.
 
-Levantai, ó portas, os vossos umbrais; levantai‑vos, portas eternas, e entrará o Rei da Glória.
+Alçai, ó príncipes, as vossas portas; portas eternas, levantai-vos * e o Rei da glória entrará.
 
-Quem é este Rei da Glória? O Senhor forte e poderoso, o Senhor poderoso na batalha.
+Quem é esse Rei da glória? * é o Senhor forte e poderoso, o Senhor potente no combate.
 
-Levantai, ó portas, os vossos umbrais; levantai‑vos, portas eternas, e entrará o Rei da Glória.
+Alçai, ó príncipes, as vossas portas; portas eternas, levantai-vos * e o Rei da glória entrará.
 
-Quem é este Rei da Glória? O Senhor dos Exércitos, Ele é o Rei da Glória.
+Quem é esse Rei da glória? * o Senhor dos exércitos, esse agora é o Rei da glória.
+
+Glória ao Pai, etc.
 
 ### **Antífona**
 
 **Bendita sois vós entre as mulheres, e bendito é o fruto do vosso ventre.**
 
-**V.** A graça foi derramada nos teus lábios. **R.** Por isso Deus te abençoou para sempre.
+**V.** Nos vossos lábios derramou-se a graça. **R.** Por isso Deus vos bendisse para sempre.
 
-### **Pai‑Nosso**
+### **Pai‑Nosso** (Em Silêncio)
 
 Pai nosso, que estais nos céus… **V.** E não nos deixeis cair em tentação. **R.** Mas livrai‑nos do mal. Amém.
 
-### **Bênção**
+### Antes da Lição I
 
-Que a terna Virgem das virgens interceda por nós junto do Senhor. **R.** Amém.
+*Na reza coral, quem deve ler a Lição pede a bênção, dizendo: «Dai-me a vossa bênção», e quem preside dá a bênção dizendo: «A Santa Virgem das Virgens…», ao que todos respondem: «Assim seja». O leitor lê a Lição, à qual respondem todos: «Assim seja». O mesmo se observa para as outras Lições. (2) O Responsório é dito por todos. P. 218: (1) O Versículo é dito por quem leu a Lição. P. 220: (1) Quem diz o ℣. do Responsório diz também o Glória ao Pai, e todos respondem: «Cristo nosso Deus».*
 
-### **Primeira Leitura**
+Dai-me a vossa bênção.
 
-Ó Santa Maria, Virgem das virgens, Mãe e filha do Rei dos reis! Concede‑nos a tua consolação, para que por ti mereçamos a recompensa do reino celeste e reinemos com os eleitos de Deus por toda a eternidade. Mas Vós, Senhor, tende piedade de nós.
+**P —** A Santa Virgem das Virgens interceda por nós junto do Senhor. **R.** Amém.
 
-**R.** Graças a Deus.
+### Lição I
 
-**R.** Ó santa e imaculada virgindade, como te poderei louvar dignamente? Pois do teu seio deste Aquele que os céus não podem conter.
+Santa Maria, Virgem das Virgens, Mãe e Filha do Rei de todos os reis, dispensai-nos o vosso socorro, afim de, por vós, merecermos o prémio do celeste reino e permanecermos com os eleitos de Deus eternamente.
 
-**V.** Bendita és tu entre as mulheres, e bendito é o fruto do teu ventre. **R.** Pois do teu seio deste Aquele que os céus não podem conter.
+Senhor, tende misericórdia de nós.
 
-**Bênção:** Que a santa Mãe de Deus seja a nossa auxiliadora. **R.** Amém.
+**R.** Demos graças a Deus.
 
-### **Segunda Leitura**
+**V.** Santa Virgem Imaculada, não sei como louvar-vos dignamente. * Porquanto Aquele a quem os Céus não podem conter, em vosso ventre o possuístes.
 
-Ó Santa Maria, a mais compassiva entre todas, e a mais santa entre todas, intercede por nós. Por ti, ó Virgem, que Ele receba as nossas orações, Aquele que, nascido por nós de ti, reina acima dos céus; para que, pela Sua misericórdia, os nossos pecados sejam apagados. Mas Vós, Senhor, tende piedade de nós.
+**V.** Bendita sois Vós entre as mulheres e bendito é o fruto do vosso ventre Jesus.
 
-**R.** Graças a Deus.
+**R.** Porquanto Aquele a quem os céus não podem conter, em vosso ventre o possuístes.
 
-**R.** Bendita és tu, ó Virgem Maria, que deste à luz o Senhor, Criador do mundo. Deste à luz Aquele que te criou, e permaneces Virgem para sempre.
+### Antes da Lição II
 
-**V.** Ave Maria, cheia de graça, o Senhor é convosco. **R.** Deste à luz Aquele que te criou, e permaneces Virgem para sempre.
+**Bênção:**  A Santa Mãe de Deus seja nossa auxiliadora. **R.** Amém.
 
-**Bênção:** Que a Virgem Maria, com o seu amável Filho, nos abençoe. **R.** Amém.
+### Lição II
 
-### **Terceira Leitura**
+Santa Maria, flor da piedade, a mais santa entre as santas, intercedei por nós; por Vós, ó Virgem, acolha as nossas preces, Aquele que reina nos céus, e de Vós nascido por nosso amor, afim de que os nossos pecados sejam apagados por sua misericórdia.
 
-Ó Santa Mãe de Deus, que mereceste conceber Aquele que o mundo inteiro não pode conter, purifica os nossos pecados pela tua amorosa intercessão, para que nós, redimidos, possamos por ti ascender ao trono da glória eterna, onde, com o teu Filho, reinas para sempre. Mas Vós, Senhor, tende piedade de nós.
+Senhor, tende misericórdia de nós.
 
-**R.** Graças a Deus.
+**R.** Demos graças a Deus.
 
-**R.** Feliz és tu, ó sagrada Virgem Maria, e digna de todo o louvor, pois de ti nasceu o Sol da Justiça, Cristo nosso Deus.
+**V.** Bem-aventurada sois, Virgem Maria, que no vosso seio trouxestes o Criador do mundo. * Gerastes Aquele que vos criou e Virgem permaneceis eternamente.
 
-**V.** Rogai pelo povo, intercedei pelo clero, orai pelas mulheres devotas; que todos sintam o vosso auxílio que celebram a vossa memória bendita.
+**V.** Ave Maria, cheia de graça, o Senhor é convosco. **R.** Gerastes Aquele que vos criou, e Virgem permaneceis eternamente.
 
-**R.** Pois de ti nasceu o Sol da Justiça, Cristo nosso Deus.
+### Antes da Lição III
+
+Dai-me a vossa bênção.
+
+**P —** Que a Virgem Maria com seu bendito Filho, nos abençoe. **R.** Amém.
+
+### Lição III
+
+Ó Santa Mãe de Deus, que dignamente merecestes gerar a Quem o universo não pode conter: purificai-nos, por vossa intercessão, de nossas culpas, afim de, libertos por Vós, podermos ascender ao trono da glória eterna, na qual, com Vosso Filho, perpètuamente reinais.
+
+Senhor, tende misericórdia de nós.
+
+**R.** Demos graças a Deus.
+
+**V.** Sois bem-aventurada, ó Maria, Virgem sagrada e digníssima de todos os louvores: * pois de Vós nasceu o Sol de Justiça, Cristo, nosso Deus.
+
+**V.** Orai pelo povo, intercedei pelo clero e pelas vossas piedosas servas; que todos os que se lembram de vós sintam o vosso patrocínio.
+
+**R.** Pois de Vós nasceu o Sol de Justiça, Cristo nosso Deus.
 
 **V.** Glória ao Pai, e ao Filho, e ao Espírito Santo. **R.** Cristo nosso Deus.
 
-**R.** Feliz és tu, ó sagrada Virgem Maria…
-
 ### **Te Deum (quando se diz)**
+*Omite-se nos domingos e dias feriais do Advento e da Quaresma.*
 
 **Levantai‑vos.**
 
-Nós Vos louvamos, ó Deus; Nós Vos reconhecemos como Senhor. Toda a terra Vos adora, ó Pai eterno.
+Ó Deus, nós vos louvamos * por Senhor vos confessamos.
 
-A Vós todos os Anjos clamam, os Céus e todas as Potestades. A Vós os Querubins e Serafins proclamam incessantemente:
+A Vós, ó Pai Eterno * toda a terra adora.
 
-**Santo, Santo, Santo,** **Senhor Deus dos Exércitos;** **cheios estão o céu e a terra da majestade da vossa glória.**
+A Vós todos os Anjos * os Céus e todas as Potestades.
 
-O glorioso coro dos Apóstolos Vos louva. A nobre multidão dos Profetas Vos louva. O exército dos Mártires Vos louva. A Santa Igreja, espalhada por todo o mundo, Vos confessa:
+A Vós os Querubins e os Serafins * Vos proclamam sem cessar:
 
-O Pai de infinita majestade; O vosso verdadeiro e único Filho; E o Espírito Santo, Consolador.
+Santo, Santo, Santo, * é o Senhor Deus dos Exércitos.
 
-Vós sois o Rei da Glória, ó Cristo. Vós sois o Filho eterno do Pai.
+Cheios estão céus e terra * da majestade da vossa glória.
 
-Quando tomastes sobre Vós a carne para libertar o homem, não desprezastes o seio da Virgem.
+A Vós, * o glorioso coro dos Apóstolos;
 
-Tendo vencido a agudeza da morte, abristes o Reino dos Céus aos fiéis.
+A Vós, * a louvável assembleia dos Profetas;
 
-Estais sentado à direita de Deus, na glória do Pai.
+A Vós, * o magnífico exército dos Mártires Vos louva.
 
-Cremos que haveis de vir como Juiz.
+A Vós por toda a terra * a Santa Igreja confessa;
+
+A Vós, * ó Pai de imensa majestade;
+
+Ao vosso adorável, verdadeiro * e único Filho.
+
+E também * ao Espírito Santo Consolador.
+
+Vós, ó Cristo * sois o Rei da Glória.
+
+O Filho sempiterno * do Pai.
+
+Para salvação do homem, * vieste encarnar no seio de uma Virgem.
+
+Vós, quebrando o aguilhão da morte, * abristes aos fiéis os reinos dos céus.
+
+Vós estais sentado à dextra de Deus, * na glória do Pai.
+
+Como Juiz (nós o cremos) * vireis no fim dos tempos.
 
 **(Genuflectem.)**
 
-Por isso Vos suplicamos: ajudai os Vossos servos, que remistes com o Vosso precioso Sangue.
+*Rogamo-vos, pois, como vossos servos, nos socorrais;* * os que remistes com o vosso precioso sangue.
 
 **(Levantem‑se.)**
 
-Fazei que sejam contados entre os Vossos santos, na glória eterna.
+Fazei que com os vossos santos, * sejamos contados, na eterna glória.
 
-Salvai o Vosso povo, Senhor, e abençoai a Vossa herança.
+Senhor, salvai o vosso povo, * abençoai a vossa herança.
 
-Governai‑os e exaltai‑os para sempre.
+E conduzi-os * e elevai-os até à eternidade.
 
-Dia após dia Vos bendizemos e louvamos o Vosso Nome pelos séculos dos séculos.
+Cada dia * nós Vos bemdizemos.
 
-Dignai‑Vos, Senhor, guardar‑nos sem pecado neste dia.
+E louvamos agora o vosso nome * e por todos os séculos dos séculos.
 
-Tende piedade de nós, Senhor; tende piedade de nós.
+Dignai-vos, Senhor, guardar-nos, * sem pecado, neste dia.
 
-Seja a Vossa misericórdia sobre nós, como em Vós esperamos.
+Tende misericórdia de nós, Senhor, * tende misericórdia de nós.
 
-Em Vós, Senhor, confiei; que eu jamais seja confundido.
+Desça a vossa misericórdia sobre nós, Senhor, * conforme a que de Vós esperamos.
+
+Em Vós, Senhor, esperei, * não serei confundido eternamente.
 
 ### **Conclusão das Matinas**
 *(quando não seguem imediatamente as Laudes)*
 
-**V.** Senhor, ouvi a minha oração. **R.** E chegue a Vós o meu clamor.
-
-**Oremos:**
-
-Concedei‑nos, suplicamos, Senhor Deus, que nós, Vossos servos, gozemos contínua saúde de alma e corpo; e que, pela gloriosa intercessão da bem‑aventurada Maria, sempre Virgem, sejamos libertos das tristezas presentes e gozemos da eterna alegria. Por Cristo, nosso Senhor.
-
-**R.** Amém.
+**V.** Rogai por nós, Santa Mãe de Deus. **R.** Para que sejamos dignos das promessas de Cristo.
